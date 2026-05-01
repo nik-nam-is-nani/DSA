@@ -1,0 +1,723 @@
+================================================================
+  PYTHON + DSA COMPLETE LEARNING CHECKLIST
+  Copy any description into AI to get a focused lesson!
+================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  PHASE 1 — PYTHON FOUNDATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[ ] VARIABLES & TYPES
+    | Teach me Python variables and data types for DSA — cover int, float, string, bool, type(), type casting, and how Python stores values in memory with simple examples.
+
+    [ ] int
+        | Teach me Python int data type for DSA — how integers work in memory, arithmetic operations (+, -, *, /, //, %, **), and where ints are used in algorithms like counters and indices.
+
+    [ ] float
+        | Teach me Python float data type for DSA — floating point numbers, precision issues, math operations, and when to use float vs int in algorithm problems.
+
+    [ ] string
+        | Teach me Python string data type for DSA — how strings are stored as character sequences, indexing, immutability, and why strings matter in DSA problems like palindromes and anagrams.
+
+    [ ] bool
+        | Teach me Python bool data type for DSA — True and False values, how booleans work in conditions and loops, boolean operators (and, or, not), and their role in algorithm logic.
+
+    [ ] type()
+        | Teach me the Python type() function for DSA — how to check variable types, why type checking matters when writing functions, and common type-related bugs in algorithm code.
+
+    [ ] type casting
+        | Teach me Python type casting for DSA — converting between int(), float(), str(), bool(), when casting is needed in algorithm input handling, and common casting errors to avoid.
+
+----------------------------------------------------------------
+
+[ ] CONDITIONALS
+    | Teach me Python conditionals (if, elif, else) for DSA — how decision-making works in code, comparison operators, nested conditions, and how conditionals are used inside searching and sorting algorithms.
+
+    [ ] if
+        | Teach me the Python if statement for DSA — basic syntax, comparison operators (==, !=, >, <, >=, <=), and how if is used in algorithms for boundary checks and guards.
+
+    [ ] elif
+        | Teach me Python elif for DSA — chaining multiple conditions, when to use elif vs multiple ifs, and how elif is used in categorization logic inside algorithms.
+
+    [ ] else
+        | Teach me Python else for DSA — the default fallback in conditionals, how else pairs with if, and its role in algorithm edge case handling.
+
+    [ ] nested if
+        | Teach me nested if statements in Python for DSA — writing conditions inside conditions, how to manage readability, and examples of nested ifs in search and graph algorithms.
+
+    [ ] ternary operator
+        | Teach me Python ternary operator (one-line if-else) for DSA — syntax like value_if_true if condition else value_if_false, when to use it, and examples in array manipulation.
+
+----------------------------------------------------------------
+
+[ ] LOOPS
+    | Teach me Python loops for DSA — for loops, while loops, range(), break, continue, pass, nested loops, and how loops are the backbone of almost every algorithm including search, sort, and traversal.
+
+    [ ] for loop
+        | Teach me Python for loop for DSA — iterating over lists, strings, ranges, and dictionaries, with examples of how for loops power linear search, array traversal, and matrix operations.
+
+    [ ] while loop
+        | Teach me Python while loop for DSA — condition-based looping, infinite loop prevention, and examples of while loops in binary search, linked list traversal, and sliding window problems.
+
+    [ ] range()
+        | Teach me Python range() for DSA — range(stop), range(start, stop), range(start, stop, step), reverse range, and how range() is used to generate indices in sorting and searching algorithms.
+
+    [ ] break
+        | Teach me Python break statement for DSA — how break exits a loop early, examples in linear search (stop when found), and how break affects algorithm efficiency.
+
+    [ ] continue
+        | Teach me Python continue statement for DSA — how continue skips the current iteration, examples in filtering arrays, and when continue helps simplify algorithm logic.
+
+    [ ] pass
+        | Teach me Python pass statement for DSA — what pass does (placeholder), when to use it in skeleton code, and its role when building algorithm templates.
+
+    [ ] nested loops
+        | Teach me nested loops in Python for DSA — loops inside loops, how they create O(n²) time complexity, examples in bubble sort and matrix traversal, and how to spot them in algorithm problems.
+
+----------------------------------------------------------------
+
+[ ] FUNCTIONS
+    | Teach me Python functions for DSA — defining with def, return values, parameters, default arguments, *args, **kwargs, scope, and how to write clean reusable functions for algorithm solutions.
+
+    [ ] def
+        | Teach me Python def keyword for DSA — function definition syntax, naming conventions, how to structure algorithm functions, and why breaking code into functions improves DSA problem solving.
+
+    [ ] return
+        | Teach me Python return statement for DSA — returning single values, multiple values (tuple), returning early, and how return is used in recursive algorithms and helper functions.
+
+    [ ] parameters
+        | Teach me Python function parameters for DSA — positional arguments, how parameters pass data into algorithm functions, and the difference between parameters and variables.
+
+    [ ] default args
+        | Teach me Python default arguments for DSA — setting default parameter values, how defaults make algorithm functions flexible, and examples in sorting functions with optional comparators.
+
+    [ ] *args
+        | Teach me Python *args for DSA — accepting variable number of arguments, unpacking, and examples of *args in utility functions used alongside algorithm implementations.
+
+    [ ] **kwargs
+        | Teach me Python **kwargs for DSA — accepting keyword arguments as a dictionary, when **kwargs is useful in algorithm configuration functions, with simple examples.
+
+    [ ] scope
+        | Teach me Python variable scope for DSA — local vs global variables, how scope affects recursive functions, closures, and common scope bugs in algorithm code.
+
+----------------------------------------------------------------
+
+[ ] LISTS & TUPLES
+    | Teach me Python lists and tuples for DSA — how they store ordered data, indexing, slicing, all list methods, tuple immutability, and how lists are the core data structure used in most DSA problems.
+
+    [ ] list creation
+        | Teach me Python list creation for DSA — empty lists, list literals, list(), list comprehension, and how to initialize arrays and matrices for algorithm problems.
+
+    [ ] indexing
+        | Teach me Python list indexing for DSA — positive indexing, negative indexing, accessing first/last elements, and how indexing is used in two-pointer and binary search techniques.
+
+    [ ] slicing
+        | Teach me Python list slicing for DSA — list[start:stop:step], copying lists, reversing with slicing, and how slicing is used in merge sort and subarray problems.
+
+    [ ] .append()
+        | Teach me Python list .append() for DSA — adding elements to the end, O(1) amortized time, and how .append() is used to build result arrays in algorithm solutions.
+
+    [ ] .pop()
+        | Teach me Python list .pop() for DSA — removing last element (O(1)) vs removing by index (O(n)), and how .pop() implements stack behavior in algorithm problems.
+
+    [ ] .sort()
+        | Teach me Python list .sort() for DSA — in-place sorting, sorted() vs .sort(), key parameter, reverse=True, and when to pre-sort data before applying algorithms like binary search.
+
+    [ ] tuple vs list
+        | Teach me the difference between Python tuple and list for DSA — mutability, memory, speed, when to use tuples as hashable keys in dictionaries for memoization and graph adjacency.
+
+----------------------------------------------------------------
+
+[ ] DICTS & SETS
+    | Teach me Python dictionaries and sets for DSA — key-value storage, O(1) average lookup, hash-based internals, set operations, and how dicts and sets solve frequency counting, deduplication, and graph problems.
+
+    [ ] dict creation
+        | Teach me Python dict creation for DSA — empty dict {}, dict literals, dict(), defaultdict, and Counter from collections — with examples of initializing frequency maps in algorithms.
+
+    [ ] keys/values
+        | Teach me Python dict keys() and values() for DSA — iterating keys, values, and items(), and how to loop through a dictionary in graph adjacency list representations and frequency maps.
+
+    [ ] .get()
+        | Teach me Python dict .get() for DSA — safely accessing values without KeyError, providing default values, and how .get() simplifies frequency counting and memoization code.
+
+    [ ] set operations
+        | Teach me Python set operations for DSA — union (|), intersection (&), difference (-), issubset(), and how sets enable O(1) membership checks replacing O(n) list searches.
+
+    [ ] in operator
+        | Teach me Python in operator for DSA — checking membership in lists O(n), sets O(1), and dicts O(1), and why switching from list to set/dict dramatically speeds up algorithms.
+
+    [ ] hash concept
+        | Teach me the concept of hashing in Python for DSA — what a hash function does, why dicts and sets use hashing for O(1) operations, and how Python computes hash values for keys.
+
+----------------------------------------------------------------
+
+[ ] STRING METHODS
+    | Teach me Python string methods for DSA — .split(), .join(), .strip(), f-strings, .replace(), .find(), slicing, and how string manipulation is used in problems like anagram detection, palindromes, and parsing.
+
+    [ ] .split()
+        | Teach me Python .split() for DSA — splitting strings into lists by delimiter, default whitespace split, and examples in parsing algorithm input and tokenizing words.
+
+    [ ] .join()
+        | Teach me Python .join() for DSA — joining a list of strings into one string, efficient string building vs concatenation, and examples in constructing results for string algorithm problems.
+
+    [ ] .strip()
+        | Teach me Python .strip() for DSA — removing whitespace or characters from string edges, .lstrip() and .rstrip(), and why stripping is needed in algorithm input preprocessing.
+
+    [ ] f-strings
+        | Teach me Python f-strings for DSA — formatted string literals, embedding variables and expressions, and how to use f-strings to debug algorithm output and display results clearly.
+
+    [ ] .replace()
+        | Teach me Python .replace() for DSA — replacing substrings, how .replace() works on immutable strings (returns new string), and examples in string cleaning before algorithm processing.
+
+    [ ] .find()
+        | Teach me Python .find() for DSA — finding the index of a substring (-1 if not found), difference from .index(), and how .find() helps in string search algorithm problems.
+
+    [ ] slicing
+        | Teach me Python string slicing for DSA — s[start:stop:step], reversing strings with s[::-1], extracting substrings, and how slicing is key in palindrome checking and substring problems.
+
+----------------------------------------------------------------
+
+[ ] FILE & I/O
+    | Teach me Python file and I/O for DSA — input(), print(), open() for reading/writing files, with statement, and how to handle algorithm input/output in competitive programming style problems.
+
+    [ ] input()
+        | Teach me Python input() for DSA — reading user input as string, converting with int(input()) or split(), and patterns for reading multiple values in competitive programming algorithm problems.
+
+    [ ] print()
+        | Teach me Python print() for DSA — printing output, sep and end parameters, printing lists and debug info during algorithm development, and formatting results.
+
+    [ ] open()
+        | Teach me Python open() for DSA — opening files in read/write mode, modes ('r', 'w', 'a'), reading lines as lists, and how file I/O is used to load large datasets into algorithms.
+
+    [ ] read()
+        | Teach me Python file .read() and .readlines() for DSA — reading entire file as string vs reading line by line, and how to load and parse input files for algorithm problems.
+
+    [ ] write()
+        | Teach me Python file .write() for DSA — writing strings to files, newlines, and how to save algorithm results and outputs to a file.
+
+    [ ] with statement
+        | Teach me Python with statement (context manager) for DSA — why with open() is safer than manual open/close, automatic file closing, and best practices for file handling in algorithm code.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  PHASE 2 — CORE DATA STRUCTURES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[ ] ARRAY & LIST DS
+    | Teach me arrays and list as a data structure in Python for DSA — 1D arrays, 2D arrays (matrices), time complexity of operations (access O(1), insert/delete O(n)), and how arrays underpin most algorithm problems.
+
+    [ ] 1D array
+        | Teach me 1D arrays in Python for DSA — creating fixed-size arrays using lists, accessing by index in O(1), iterating, and solving basic problems like finding max, min, and sum.
+
+    [ ] 2D array (matrix)
+        | Teach me 2D arrays and matrices in Python for DSA — creating with nested lists, accessing matrix[row][col], row/column traversal, and solving grid-based problems like spiral order and matrix rotation.
+
+    [ ] dynamic array
+        | Teach me dynamic arrays in Python for DSA — how Python lists automatically resize, amortized O(1) append, and the performance implications of dynamic sizing vs fixed arrays.
+
+    [ ] O(1) access
+        | Teach me O(1) array access in Python for DSA — why random access by index is constant time, how memory addresses are computed, and why arrays beat linked lists for index-based lookups.
+
+    [ ] O(n) insert/delete
+        | Teach me O(n) insertion and deletion in Python arrays for DSA — why inserting/deleting in the middle requires shifting elements, and when to use linked lists instead for frequent insertions.
+
+----------------------------------------------------------------
+
+[ ] LINKED LIST
+    | Teach me linked lists in Python for DSA — Node class, singly linked list, doubly linked list, insert, delete, traversal, reversing a linked list, and when linked lists are better than arrays.
+
+    [ ] Node class
+        | Teach me how to create a Node class in Python for DSA — defining a node with data and next pointer, how nodes connect to form a linked list, and writing the Node class from scratch.
+
+    [ ] singly linked list
+        | Teach me singly linked list in Python for DSA — building from scratch with a head pointer, inserting at head/tail/position, deleting nodes, traversal, and time complexities.
+
+    [ ] doubly linked list
+        | Teach me doubly linked list in Python for DSA — nodes with both next and prev pointers, advantages over singly linked list, insertion and deletion from both ends, and real-world use cases.
+
+    [ ] insert
+        | Teach me linked list insertion in Python for DSA — inserting at the beginning O(1), at the end O(n), and at a specific position O(n), with code examples and pointer manipulation explanation.
+
+    [ ] delete
+        | Teach me linked list deletion in Python for DSA — deleting head node, deleting by value, deleting by position, handling edge cases (empty list, single node), with full code.
+
+    [ ] traversal
+        | Teach me linked list traversal in Python for DSA — walking through nodes using a current pointer, printing all values, counting nodes, and searching for a value.
+
+    [ ] reverse
+        | Teach me reversing a linked list in Python for DSA — iterative approach with three pointers (prev, curr, next), recursive approach, and why reversing a linked list is a classic DSA interview problem.
+
+----------------------------------------------------------------
+
+[ ] STACK
+    | Teach me stacks in Python for DSA — LIFO principle, push, pop, peek, isEmpty, implementing with a Python list, and real use cases like undo systems, balanced parentheses, and function call stacks.
+
+    [ ] LIFO principle
+        | Teach me the LIFO (Last In First Out) principle for DSA — what LIFO means, a real-world analogy (stack of plates), how LIFO shapes stack operations, and when LIFO behavior is needed in algorithms.
+
+    [ ] push()
+        | Teach me stack push operation in Python for DSA — adding an element to the top using list.append(), O(1) time complexity, and examples of pushing in parentheses matching and expression evaluation.
+
+    [ ] pop()
+        | Teach me stack pop operation in Python for DSA — removing the top element using list.pop(), O(1) time, handling empty stack errors, and examples in backtracking and undo operations.
+
+    [ ] peek()
+        | Teach me stack peek operation in Python for DSA — viewing the top element without removing it (stack[-1]), why peek is needed, and examples in next greater element problems.
+
+    [ ] isEmpty()
+        | Teach me how to check if a stack is empty in Python for DSA — using len(stack) == 0, why empty checks prevent pop errors, and where isEmpty is used in algorithm termination conditions.
+
+    [ ] using list as stack
+        | Teach me how to use a Python list as a stack for DSA — append() as push, pop() as pop, indexing as peek, why Python list is sufficient for most stack-based algorithm problems.
+
+    [ ] use cases
+        | Teach me stack use cases in DSA — balanced parentheses checking, next greater element, function call stack (recursion), undo/redo, expression evaluation, and browser history, with Python code for each.
+
+----------------------------------------------------------------
+
+[ ] QUEUE
+    | Teach me queues in Python for DSA — FIFO principle, enqueue, dequeue, Python deque from collections, circular queue, priority queue, and real use cases like BFS and scheduling.
+
+    [ ] FIFO principle
+        | Teach me the FIFO (First In First Out) principle for DSA — what FIFO means, real-world analogy (waiting line), how FIFO determines queue operations, and when FIFO behavior is essential in algorithms.
+
+    [ ] enqueue
+        | Teach me enqueue operation in Python for DSA — adding to the rear of the queue using deque.append(), O(1) time, and examples of enqueueing in BFS level-order traversal.
+
+    [ ] dequeue
+        | Teach me dequeue operation in Python for DSA — removing from the front using deque.popleft(), O(1) time with deque vs O(n) with list, and why deque is preferred for queues.
+
+    [ ] deque (collections)
+        | Teach me Python collections.deque for DSA — why deque is faster than list for queues (O(1) both ends), deque methods (append, appendleft, pop, popleft), and how to use deque in BFS.
+
+    [ ] circular queue
+        | Teach me circular queue in Python for DSA — wrapping rear pointer back to front, implementing with fixed-size array and modulo operator, and use cases in round-robin scheduling.
+
+    [ ] priority queue
+        | Teach me priority queue in Python for DSA — elements served by priority not order, implementing with heapq module, min-heap as priority queue, and use cases in Dijkstra's algorithm.
+
+----------------------------------------------------------------
+
+[ ] HASH TABLE
+    | Teach me hash tables in Python for DSA — how hash functions map keys to indices, collision handling (chaining, open addressing), Python dict as hash table, O(1) average operations, and DSA problem applications.
+
+    [ ] hash function
+        | Teach me hash functions for DSA — what a hash function does, how Python computes hash(key), properties of a good hash function, and how hash values map keys to buckets in a hash table.
+
+    [ ] collision
+        | Teach me hash collisions in DSA — what happens when two keys hash to the same index, why collisions are inevitable, and how they affect hash table performance.
+
+    [ ] chaining
+        | Teach me collision chaining in hash tables for DSA — storing multiple values at same index using linked lists, how Python dict handles chaining internally, and average vs worst-case performance.
+
+    [ ] open addressing
+        | Teach me open addressing for DSA — linear probing, quadratic probing, double hashing, and how open addressing resolves collisions differently from chaining with examples.
+
+    [ ] dict internals
+        | Teach me Python dict internals for DSA — how Python implements a hash table under the hood, load factor, resizing, why dict operations are O(1) average, and when they degrade to O(n).
+
+    [ ] O(1) lookup
+        | Teach me O(1) hash table lookup for DSA — how hashing achieves constant-time search, compare with O(n) list search and O(log n) BST search, and examples where switching to a dict cuts algorithm time.
+
+----------------------------------------------------------------
+
+[ ] TREES BASICS
+    | Teach me tree data structures in Python for DSA — nodes, root, parent, child, leaf, height, depth, binary tree, and the three traversal orders (in-order, pre-order, post-order).
+
+    [ ] root
+        | Teach me the root node concept in trees for DSA — the topmost node with no parent, how root is the entry point for all tree traversals and operations, with Python TreeNode class example.
+
+    [ ] parent/child
+        | Teach me parent and child relationships in trees for DSA — how each node points to children, the parent-child link in the TreeNode class, and how parent/child relationships define tree structure.
+
+    [ ] leaf
+        | Teach me leaf nodes in trees for DSA — nodes with no children, how to identify leaf nodes in code (node.left is None and node.right is None), and their role in recursion base cases.
+
+    [ ] height
+        | Teach me tree height for DSA — height as the number of edges from root to deepest leaf, recursive calculation of height in Python, and why height matters for balanced tree analysis.
+
+    [ ] depth
+        | Teach me node depth in trees for DSA — depth as the number of edges from root to a node, how depth differs from height, and how level-order traversal uses depth.
+
+    [ ] binary tree
+        | Teach me binary trees in Python for DSA — each node has at most 2 children, TreeNode class with left and right, types of binary trees (full, complete, perfect), and building a binary tree in code.
+
+    [ ] tree traversal
+        | Teach me binary tree traversal in Python for DSA — in-order (left, root, right), pre-order (root, left, right), post-order (left, right, root), and level-order (BFS), with recursive and iterative code.
+
+----------------------------------------------------------------
+
+[ ] BINARY SEARCH TREE
+    | Teach me binary search trees (BST) in Python for DSA — the BST property, insert, search, delete, in-order traversal to get sorted output, balanced vs unbalanced trees, and time complexities.
+
+    [ ] BST property
+        | Teach me the BST property for DSA — every left subtree value is less than root, every right subtree value is greater, how this property enables fast search, and validating a BST in code.
+
+    [ ] insert
+        | Teach me BST insert in Python for DSA — recursive insertion by comparing with root, going left if smaller and right if larger, O(log n) average time, and code implementation.
+
+    [ ] search
+        | Teach me BST search in Python for DSA — recursive and iterative search by comparing target with current node, O(log n) average time, and why BST search beats linear search on sorted data.
+
+    [ ] delete
+        | Teach me BST deletion in Python for DSA — three cases (delete leaf, delete node with one child, delete node with two children using in-order successor), with full recursive code.
+
+    [ ] in-order traversal
+        | Teach me in-order traversal of BST in Python for DSA — visiting left, root, right produces sorted order, using this to verify BST correctness, and extracting sorted elements from a BST.
+
+    [ ] balanced vs unbalanced
+        | Teach me balanced vs unbalanced BST for DSA — how unbalanced BST degrades to O(n) operations, what makes a tree balanced (AVL, Red-Black), and why balance matters for algorithm efficiency.
+
+----------------------------------------------------------------
+
+[ ] HEAP
+    | Teach me heaps in Python for DSA — min-heap vs max-heap, heapify, heappush, heappop, Python heapq module, heap as priority queue, and use cases in sorting and graph algorithms.
+
+    [ ] min-heap
+        | Teach me min-heap for DSA — smallest element always at root, heap property (parent ≤ children), how min-heap enables O(1) access to minimum, and building a min-heap with Python heapq.
+
+    [ ] max-heap
+        | Teach me max-heap for DSA — largest element always at root, how to simulate max-heap in Python (negate values), and use cases like finding the k-th largest element in an array.
+
+    [ ] heapify
+        | Teach me heapify in Python for DSA — converting an unordered list into a heap in O(n) time using heapq.heapify(), and how heapify is more efficient than inserting elements one by one.
+
+    [ ] heappush
+        | Teach me heapq.heappush() in Python for DSA — inserting a new element while maintaining heap property in O(log n), and examples of push in k-th smallest element and merge k sorted lists problems.
+
+    [ ] heappop
+        | Teach me heapq.heappop() in Python for DSA — removing and returning the smallest element in O(log n), sift-down rebalancing, and examples in priority queue simulations and Dijkstra's algorithm.
+
+    [ ] Python heapq
+        | Teach me the Python heapq module for DSA — all heapq functions (heapify, heappush, heappop, heappushpop, nlargest, nsmallest), and how to solve top-k and merge problems with heapq.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  PHASE 3 — ALGORITHMS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[ ] BIG-O NOTATION
+    | Teach me Big-O notation for DSA — time complexity (O(1), O(n), O(n²), O(log n), O(n log n)), space complexity, best/worst/average case analysis, and how to calculate Big-O from Python algorithm code.
+
+    [ ] O(1)
+        | Teach me O(1) constant time complexity for DSA — operations that take the same time regardless of input size, examples (array access, dict lookup, push/pop on stack), and identifying O(1) in code.
+
+    [ ] O(n)
+        | Teach me O(n) linear time complexity for DSA — operations that grow proportionally with input size, examples (linear search, single for loop over n elements), and identifying O(n) in algorithm code.
+
+    [ ] O(n²)
+        | Teach me O(n²) quadratic time complexity for DSA — operations with nested loops over the same input, examples (bubble sort, checking all pairs), and why O(n²) becomes slow for large inputs.
+
+    [ ] O(log n)
+        | Teach me O(log n) logarithmic time complexity for DSA — operations that halve the problem each step, examples (binary search, BST operations), and why O(log n) is dramatically faster than O(n).
+
+    [ ] O(n log n)
+        | Teach me O(n log n) time complexity for DSA — operations combining linear work with logarithmic depth, examples (merge sort, quick sort average, heap sort), and why O(n log n) is the best comparison-based sort.
+
+    [ ] best/worst/avg case
+        | Teach me best, worst, and average case complexity for DSA — how the same algorithm performs differently on different inputs, examples with linear search and quick sort, and why worst case matters most.
+
+    [ ] space complexity
+        | Teach me space complexity for DSA — how much memory an algorithm uses relative to input size, O(1) in-place vs O(n) auxiliary space, and analyzing space in recursion call stacks and data structure usage.
+
+----------------------------------------------------------------
+
+[ ] LINEAR SEARCH
+    | Teach me linear search algorithm in Python for DSA — iterating through every element, O(n) time complexity, working on unsorted data, return index on found and -1 on not found, with code and examples.
+
+    [ ] iterate list
+        | Teach me iterating a list in Python for DSA linear search — using for i in range(len(arr)), enumerate(), and direct element iteration to scan every element of an array.
+
+    [ ] find target
+        | Teach me finding a target value during linear search in Python for DSA — comparing each element to target, returning the index when found, and handling duplicates.
+
+    [ ] O(n) time
+        | Teach me why linear search is O(n) for DSA — in the worst case visiting every element, how input size n directly determines search time, and when O(n) is acceptable vs when to use O(log n) binary search.
+
+    [ ] unsorted data
+        | Teach me why linear search works on unsorted data for DSA — no pre-condition on order, comparison with binary search which needs sorted data, and when linear search is the only option.
+
+    [ ] return index
+        | Teach me returning the correct index in linear search Python for DSA — returning i on match, returning -1 when not found, and handling edge cases like empty list and multiple matches.
+
+----------------------------------------------------------------
+
+[ ] BINARY SEARCH
+    | Teach me binary search algorithm in Python for DSA — sorted array requirement, left and right pointers, mid = (l+r)//2, O(log n) time, iterative and recursive implementations, and common binary search problems.
+
+    [ ] sorted array required
+        | Teach me why binary search requires a sorted array for DSA — how the algorithm eliminates half the search space using order, what happens if the array is unsorted, and how to sort first if needed.
+
+    [ ] left/right pointers
+        | Teach me left and right pointer setup in binary search for DSA — initializing left=0 and right=len(arr)-1, how the window shrinks with each step, and managing pointer movement correctly.
+
+    [ ] mid = (l+r)//2
+        | Teach me the mid calculation in binary search for DSA — why mid = (left+right)//2 works, integer overflow issue (use left + (right-left)//2 in other languages), and how mid determines which half to eliminate.
+
+    [ ] O(log n)
+        | Teach me why binary search is O(log n) for DSA — how the array is halved each iteration, mathematical proof that log₂(n) steps are needed, and comparing O(log n) speed to O(n) linear search.
+
+    [ ] iterative & recursive
+        | Teach me both iterative and recursive binary search in Python for DSA — full code for both approaches, how they differ in space complexity (O(1) vs O(log n) stack), and which to prefer.
+
+----------------------------------------------------------------
+
+[ ] BUBBLE SORT
+    | Teach me bubble sort algorithm in Python for DSA — adjacent element swapping, n passes through the array, O(n²) worst time, O(n) best case on sorted array, stable sort property, with full code.
+
+    [ ] adjacent swap
+        | Teach me adjacent swapping in bubble sort for DSA — comparing arr[j] and arr[j+1], swapping when out of order, how bubbles the largest element to the end each pass, with code walkthrough.
+
+    [ ] n passes
+        | Teach me the n passes in bubble sort for DSA — the outer loop runs n-1 times, how each pass shrinks the unsorted portion by 1, and optimization using a flag to stop early when no swaps occur.
+
+    [ ] O(n²) time
+        | Teach me why bubble sort is O(n²) for DSA — nested loops each running ~n times, n*(n-1)/2 total comparisons, and why bubble sort is too slow for large datasets in practice.
+
+    [ ] stable sort
+        | Teach me stable sorting for DSA — why bubble sort is stable (equal elements keep original order), what stability means, and why stability matters in multi-key sorting problems.
+
+    [ ] best case O(n)
+        | Teach me bubble sort best case O(n) for DSA — how an already-sorted array is detected in one pass using a swap flag, and the optimized bubble sort implementation with early termination.
+
+----------------------------------------------------------------
+
+[ ] MERGE SORT
+    | Teach me merge sort algorithm in Python for DSA — divide and conquer approach, splitting array in half, recursively sorting halves, merging sorted halves, O(n log n) time, O(n) space, with full code.
+
+    [ ] divide array
+        | Teach me the divide step in merge sort for DSA — splitting the array at the midpoint recursively until subarrays have 1 element (base case), and how this creates the recursion tree.
+
+    [ ] conquer (sort halves)
+        | Teach me the conquer step in merge sort for DSA — recursively calling merge sort on left and right halves, how a single-element array is already sorted, and the base case in the recursion.
+
+    [ ] merge step
+        | Teach me the merge step in merge sort for DSA — combining two sorted subarrays into one sorted array using two pointers, handling leftover elements, and code implementation of the merge function.
+
+    [ ] O(n log n)
+        | Teach me why merge sort is O(n log n) for DSA — log n recursion levels each doing O(n) merge work, deriving O(n log n) mathematically, and why this is optimal for comparison-based sorting.
+
+    [ ] O(n) space
+        | Teach me merge sort's O(n) space complexity for DSA — temporary arrays created during merging, why merge sort is not in-place, and the space vs time trade-off compared to quick sort.
+
+    [ ] stable
+        | Teach me why merge sort is a stable sort for DSA — how the merge step preserves original order of equal elements, and why merge sort's stability makes it preferable over quick sort for linked lists.
+
+----------------------------------------------------------------
+
+[ ] QUICK SORT
+    | Teach me quick sort algorithm in Python for DSA — pivot selection, partition step, recursive sorting of sub-arrays, O(n log n) average time, O(n²) worst case, in-place sorting, with full code.
+
+    [ ] pivot selection
+        | Teach me pivot selection in quick sort for DSA — choosing last element, first element, or random element as pivot, how bad pivot choice causes O(n²) worst case, and median-of-three strategy.
+
+    [ ] partition
+        | Teach me the partition step in quick sort for DSA — rearranging elements so left side < pivot < right side, Lomuto vs Hoare partition scheme, and step-by-step code walkthrough.
+
+    [ ] recursion
+        | Teach me recursion in quick sort for DSA — how quick sort calls itself on left and right sub-arrays after partition, the recursion tree structure, and the base case (sub-array of size 0 or 1).
+
+    [ ] O(n log n) avg
+        | Teach me why quick sort averages O(n log n) for DSA — balanced partitions creating log n depth, n work per level, and how random pivot selection achieves average case performance.
+
+    [ ] O(n²) worst
+        | Teach me quick sort's O(n²) worst case for DSA — happens on already-sorted arrays with bad pivot (first/last), how it degrades to n levels of depth with n work each, and how to avoid worst case.
+
+    [ ] in-place
+        | Teach me why quick sort is in-place for DSA — no extra array needed (only O(log n) stack space for recursion), and how in-place sorting makes quick sort memory-efficient vs merge sort.
+
+----------------------------------------------------------------
+
+[ ] RECURSION
+    | Teach me recursion in Python for DSA — base case, recursive case, call stack visualization, examples (factorial, fibonacci, binary search), tail recursion, and memoization to optimize recursive solutions.
+
+    [ ] base case
+        | Teach me the base case in recursion for DSA — the stopping condition that prevents infinite recursion, why every recursive function needs a base case, and examples in factorial, fibonacci, and tree traversal.
+
+    [ ] recursive case
+        | Teach me the recursive case for DSA — how a function calls itself with a smaller sub-problem, the relationship between current call and sub-call, and examples showing problem size shrinking each step.
+
+    [ ] call stack
+        | Teach me the call stack in recursion for DSA — how Python pushes function calls onto a stack, stack frame for each call, stack overflow from infinite recursion, and visualizing the call stack mentally.
+
+    [ ] factorial
+        | Teach me factorial using recursion in Python for DSA — n! = n * (n-1)!, base case n==1, recursive code, tracing execution step by step, and iterative comparison.
+
+    [ ] fibonacci
+        | Teach me fibonacci using recursion in Python for DSA — fib(n) = fib(n-1) + fib(n-2), base cases, naive recursion tree showing repeated work, and why memoization is needed to optimize it.
+
+    [ ] tail recursion
+        | Teach me tail recursion for DSA — when the recursive call is the very last operation, why tail recursion can be optimized by compilers, and how to convert head recursion to tail recursion in Python.
+
+    [ ] memoization
+        | Teach me memoization in Python for DSA — caching results of recursive calls to avoid re-computation, using a dictionary or @functools.lru_cache, and applying memoization to fibonacci and grid path problems.
+
+----------------------------------------------------------------
+
+[ ] TWO POINTERS
+    | Teach me the two pointers technique in Python for DSA — left and right pointers moving toward each other, O(n) time, examples (pair sum, remove duplicates, reverse array, container with most water).
+
+    [ ] sorted array trick
+        | Teach me why two pointers works best on sorted arrays for DSA — how sorted order lets us decide which pointer to move, and why sorting first + two pointers beats O(n²) brute force.
+
+    [ ] left/right pointers
+        | Teach me left and right pointer initialization for two pointers DSA — starting at opposite ends, pointer movement rules, termination when left >= right, and example with pair sum in sorted array.
+
+    [ ] shrink window
+        | Teach me window shrinking in two pointers for DSA — moving left pointer right when sum is too small, moving right pointer left when sum is too large, and how this eliminates pairs without missing any.
+
+    [ ] pair sum
+        | Teach me the pair sum problem using two pointers for DSA — finding two numbers in a sorted array that sum to a target in O(n), full code walkthrough, and comparison to O(n²) brute force.
+
+    [ ] reverse string
+        | Teach me reversing a string/array using two pointers for DSA — swapping characters at left and right pointers, moving toward center, O(n) time O(1) space, with Python code.
+
+    [ ] palindrome
+        | Teach me palindrome checking using two pointers for DSA — comparing characters from both ends moving inward, O(n) time, handling even/odd length, and extending to longest palindromic substring.
+
+----------------------------------------------------------------
+
+[ ] SLIDING WINDOW
+    | Teach me the sliding window technique in Python for DSA — fixed and variable window sizes, maintaining a running result, O(n) over O(n²) brute force, with examples (max sum subarray, longest substring).
+
+    [ ] fixed window
+        | Teach me fixed-size sliding window for DSA — window of size k slides across the array, add new element and remove old element each step, O(n) time, and example with maximum sum of k elements.
+
+    [ ] variable window
+        | Teach me variable-size sliding window for DSA — expanding window by moving right pointer, shrinking by moving left pointer when condition breaks, and example with longest substring without repeating characters.
+
+    [ ] max sum subarray
+        | Teach me maximum sum subarray using sliding window for DSA — fixed window of size k, running sum updated by adding arr[right] and removing arr[left], O(n) solution with code.
+
+    [ ] longest substring
+        | Teach me longest substring without repeating characters using sliding window for DSA — variable window with a set tracking characters, expanding right and shrinking left on duplicate, O(n) code.
+
+    [ ] O(n) over O(n²)
+        | Teach me why sliding window achieves O(n) instead of O(n²) for DSA — each element enters and leaves the window at most once, compare to brute force all subarrays approach, with complexity analysis.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  PHASE 4 — ADVANCED TOPICS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[ ] GRAPH BASICS
+    | Teach me graph data structures in Python for DSA — nodes (vertices), edges, directed vs undirected graphs, adjacency list vs adjacency matrix, BFS using a queue, and DFS using recursion or stack.
+
+    [ ] adjacency list
+        | Teach me adjacency list graph representation in Python for DSA — using a dict of lists, adding edges, space efficiency O(V+E), and why adjacency list is preferred for sparse graphs.
+
+    [ ] adjacency matrix
+        | Teach me adjacency matrix graph representation in Python for DSA — 2D list where matrix[i][j]=1 means edge exists, O(V²) space, O(1) edge lookup, and when to use matrix vs list.
+
+    [ ] directed vs undirected
+        | Teach me directed vs undirected graphs for DSA — directed edges have one-way direction, undirected are two-way, how representation differs in adjacency list, and real-world examples of each.
+
+    [ ] BFS (queue)
+        | Teach me Breadth-First Search (BFS) in Python for DSA — using a queue (deque), visited set, exploring level by level, O(V+E) time, and applications in shortest path, level-order tree traversal.
+
+    [ ] DFS (stack/recursion)
+        | Teach me Depth-First Search (DFS) in Python for DSA — recursive DFS with visited set, iterative DFS using an explicit stack, O(V+E) time, and applications in connected components and cycle detection.
+
+----------------------------------------------------------------
+
+[ ] DYNAMIC PROGRAMMING
+    | Teach me dynamic programming in Python for DSA — overlapping subproblems, optimal substructure, top-down memoization, bottom-up tabulation, and classic DP problems (fibonacci, knapsack, coin change).
+
+    [ ] overlapping subproblems
+        | Teach me overlapping subproblems for DSA — when the same sub-problem is solved multiple times in naive recursion (fibonacci example), how to identify this property, and why caching solves it.
+
+    [ ] optimal substructure
+        | Teach me optimal substructure for DSA — when the optimal solution to a problem contains optimal solutions to sub-problems, examples (shortest path, knapsack), and why this property enables DP.
+
+    [ ] memoization (top-down)
+        | Teach me top-down memoization DP in Python for DSA — recursive solution with a cache dict, @lru_cache decorator, fibonacci with memoization, and how top-down DP preserves the recursive thinking style.
+
+    [ ] tabulation (bottom-up)
+        | Teach me bottom-up tabulation DP in Python for DSA — building a dp[] table from smallest sub-problems up, fibonacci with tabulation, and why bottom-up avoids recursion stack overhead.
+
+    [ ] Fibonacci DP
+        | Teach me Fibonacci sequence using dynamic programming in Python for DSA — naive recursion O(2^n), memoization O(n), tabulation O(n), space-optimized O(1) using two variables, with all four versions.
+
+    [ ] knapsack
+        | Teach me the 0/1 knapsack problem using dynamic programming in Python for DSA — given weights and values with a capacity limit, build dp[i][w] table, O(n*W) time, with full code and explanation.
+
+----------------------------------------------------------------
+
+[ ] GREEDY ALGORITHMS
+    | Teach me greedy algorithms in Python for DSA — making locally optimal choices at each step, greedy choice property, examples (coin change greedy, activity selection, Huffman coding concept), and when greedy fails.
+
+    [ ] greedy choice property
+        | Teach me the greedy choice property for DSA — why choosing the locally best option at each step leads to a globally optimal solution, and how to identify if a problem has this property.
+
+    [ ] activity selection
+        | Teach me the activity selection problem using greedy algorithm for DSA — selecting maximum non-overlapping activities by sorting by end time, greedy selection rule, O(n log n) solution with code.
+
+    [ ] coin change (greedy)
+        | Teach me coin change using greedy algorithm for DSA — always picking the largest coin first, when greedy gives optimal answer (standard denominations), and when greedy fails (custom denominations needing DP).
+
+    [ ] Huffman coding idea
+        | Teach me the concept of Huffman coding as a greedy algorithm for DSA — assigning shorter codes to more frequent characters, building a priority queue of frequencies, and the greedy merge step.
+
+    [ ] when greedy fails
+        | Teach me when greedy algorithms fail in DSA — examples where locally optimal choices don't lead to global optimum (coin change with custom coins, fractional vs 0/1 knapsack), and why DP is needed instead.
+
+----------------------------------------------------------------
+
+[ ] BACKTRACKING
+    | Teach me backtracking in Python for DSA — state space tree exploration, try a choice, recurse, undo (backtrack) if it fails, examples (N-queens, sudoku, permutations, subsets), with full code.
+
+    [ ] state space tree
+        | Teach me state space tree concept in backtracking for DSA — visualizing all possible choices as a tree, how backtracking prunes branches, and why it's more efficient than brute-force enumeration.
+
+    [ ] N-queens
+        | Teach me the N-queens problem using backtracking in Python for DSA — placing N queens on an NxN board so none attack each other, row-by-row placement with column and diagonal checks, full code.
+
+    [ ] sudoku solver
+        | Teach me sudoku solver using backtracking in Python for DSA — finding empty cells, trying digits 1-9, checking row/col/box validity, backtracking on failure, with complete code.
+
+    [ ] permutations
+        | Teach me generating all permutations using backtracking in Python for DSA — choosing each element, recursing on remaining elements, undoing choice, building all arrangements, O(n!) time with code.
+
+    [ ] subsets
+        | Teach me generating all subsets (power set) using backtracking in Python for DSA — include or exclude each element, recursive exploration of both choices, O(2^n) subsets, with full code.
+
+    [ ] pruning
+        | Teach me pruning in backtracking for DSA — cutting off search branches early when a constraint is violated, how pruning reduces the search space, and examples in N-queens and sudoku solvers.
+
+----------------------------------------------------------------
+
+[ ] TRIE
+    | Teach me Trie (prefix tree) data structure in Python for DSA — TrieNode class, insert word, search word, startsWith prefix, applications in autocomplete and word dictionaries, with full code.
+
+    [ ] TrieNode class
+        | Teach me how to build a TrieNode class in Python for DSA — children as a dict mapping characters to TrieNodes, is_end_of_word boolean flag, and how nodes chain together to form words.
+
+    [ ] insert word
+        | Teach me word insertion into a Trie in Python for DSA — iterating characters, creating new nodes if character not in children, marking is_end_of_word at last character, O(m) time where m is word length.
+
+    [ ] search
+        | Teach me word search in a Trie in Python for DSA — traversing characters, returning False if any character is missing from children, checking is_end_of_word at the last character, O(m) time.
+
+    [ ] startsWith()
+        | Teach me prefix search (startsWith) in a Trie for DSA — checking if any word in the Trie starts with a given prefix, same traversal as search but without checking is_end_of_word, O(m) time.
+
+    [ ] autocomplete
+        | Teach me autocomplete using a Trie for DSA — finding all words that share a prefix using DFS from the prefix endpoint, collecting all paths where is_end_of_word is True, with Python code.
+
+    [ ] word dictionary
+        | Teach me using Trie as a word dictionary for DSA — storing a large vocabulary efficiently, how Trie shares common prefixes (memory efficient), and solving word search and prefix matching problems.
+
+
+================================================================
+  HOW TO USE THIS LIST
+================================================================
+
+  1. Pick any [ ] item
+  2. Copy the description after the | symbol
+  3. Paste it directly into Claude (or any AI)
+  4. Get a focused, DSA-specific lesson on that exact subtopic
+  5. Check the box [ ] when you understand it
+
+  TOTAL TOPICS: 30 main + 120 subtopics = 150 items
+
+================================================================
