@@ -10,10 +10,10 @@
 [ ] VARIABLES & TYPES
     | Teach me Python variables and data types for DSA — cover int, float, string, bool, type(), type casting, and how Python stores values in memory with simple examples.
 
-    [ ] int
+    [X] int
         | Teach me Python int data type for DSA — how integers work in memory, arithmetic operations (+, -, *, /, //, %, **), and where ints are used in algorithms like counters and indices.
 
-    [ ] float
+    [X] float
         | Teach me Python float data type for DSA — floating point numbers, precision issues, math operations, and when to use float vs int in algorithm problems.
 
     [ ] string
