@@ -7,7 +7,7 @@
   PHASE 1 — PYTHON FOUNDATIONS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-[ ] VARIABLES & TYPES
+[X] VARIABLES & TYPES
     | Teach me Python variables and data types for DSA — cover int, float, string, bool, type(), type casting, and how Python stores values in memory with simple examples.
 
     [X] int
@@ -25,7 +25,7 @@
     [X] type()
         | Teach me the Python type() function for DSA — how to check variable types, why type checking matters when writing functions, and common type-related bugs in algorithm code.
 
-    [ ] type casting
+    [X] type casting
         | Teach me Python type casting for DSA — converting between int(), float(), str(), bool(), when casting is needed in algorithm input handling, and common casting errors to avoid.
 
 ----------------------------------------------------------------
