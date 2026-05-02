@@ -57,3 +57,16 @@ for right in range(len(n)):
         Start=left
 print(n[Start:max_len])
 print(max_len)
+print("========================================================")
+#=======================================
+print(" Reverse Words in a String III")
+class Solution:
+    def reverseWords(self, s: str) -> str:
+        op=s.split()
+        va=""
+        for i in range(len(op)):
+            op[i]=op[i][::-1]
+          
+        return " ".join(op)
+print("=====================================")
+
