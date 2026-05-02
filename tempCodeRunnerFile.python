@@ -1,1 +1,26 @@
-print(f"{1e-9:.10f}")
+
+
+# from continue number addition code 
+n=1234
+sum=0
+for i in str(n):
+    sum+=int(i)
+print(sum)
+print("====================================")
+#====================================
+
+
+
+#Reverse a Number
+print("Reverse a Number")
+
+n=1234
+print("before: ",n)
+p=[]
+while n:
+    d=n%10
+    n=n//10
+    p.append(str(d))
+d="".join(p)
+
+print(d)
