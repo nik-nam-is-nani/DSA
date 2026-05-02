@@ -16,10 +16,10 @@
     [X] float
         | Teach me Python float data type for DSA — floating point numbers, precision issues, math operations, and when to use float vs int in algorithm problems.
 
-    [ ] string
+    [X] string
         | Teach me Python string data type for DSA — how strings are stored as character sequences, indexing, immutability, and why strings matter in DSA problems like palindromes and anagrams.
 
-    [ ] bool
+    [X] bool
         | Teach me Python bool data type for DSA — True and False values, how booleans work in conditions and loops, boolean operators (and, or, not), and their role in algorithm logic.
 
     [ ] type()
