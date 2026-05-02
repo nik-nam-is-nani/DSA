@@ -70,3 +70,7 @@ class Solution:
         return " ".join(op)
 print("=====================================")
 
+val="1 23 34 56"
+va=list(map(int,val.split()))
+print(va)
+

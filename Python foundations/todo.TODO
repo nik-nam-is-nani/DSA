@@ -22,7 +22,7 @@
     [X] bool
         | Teach me Python bool data type for DSA — True and False values, how booleans work in conditions and loops, boolean operators (and, or, not), and their role in algorithm logic.
 
-    [ ] type()
+    [X] type()
         | Teach me the Python type() function for DSA — how to check variable types, why type checking matters when writing functions, and common type-related bugs in algorithm code.
 
     [ ] type casting
