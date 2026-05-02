@@ -1,5 +1,4 @@
-Let’s go 😏 — **strings in DSA** are *way more powerful than they look*.
-We’ll do this in a **builder mindset** so you can *actually solve problems*, not just memorize syntax.
+
 
 ---
 
@@ -339,11 +338,3 @@ Think:
 
 ---
 
-If you want next level 🔥
-I can give:
-
-* 15 must-solve string DSA problems (step-by-step thinking)
-* KMP algorithm (pattern matching 🔥)
-* Z-algorithm (advanced)
-
-Just say: **“string problems set”** 😏
