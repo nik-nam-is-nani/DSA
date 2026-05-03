@@ -74,3 +74,10 @@ val="1 23 34 56"
 va=list(map(int,val.split()))
 print(va)
 
+x=int(1234)
+x=str(x)
+x=x[::-1]
+print(x)
+n=14
+print("mass :",n & n-1)
+print(n & (n-1)==0)
