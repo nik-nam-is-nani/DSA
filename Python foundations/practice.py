@@ -83,8 +83,7 @@ print("mass :",n & n-1)
 print(n & (n-1)==0)
 n=12
 i=1
-c=[]
-for j in range(1,n):
-    if n%j==0:
-        c.append(j)
+ 
+
+
 
