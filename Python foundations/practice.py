@@ -83,7 +83,19 @@ print("mass :",n & n-1)
 print(n & (n-1)==0)
 n=12
 i=1
- 
+a="11"
+b="1"
+print("new")
 
+
+
+a1=int(a,2)
+b1=int(b,2)
+a1=a1+b1
+a1=bin(a1)
+a1=a1[2:]
+a1=str(a1)
+print(a1)
+        
 
 
