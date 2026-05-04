@@ -255,5 +255,4 @@ def find_max(arr):
 
 ---
 
-# 🚀 What Next?
 
