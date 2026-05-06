@@ -39,7 +39,7 @@
     [X] elif
         | Teach me Python elif for DSA — chaining multiple conditions, when to use elif vs multiple ifs, and how elif is used in categorization logic inside algorithms.
 
-    [ ] else
+    [X] else
         | Teach me Python else for DSA — the default fallback in conditionals, how else pairs with if, and its role in algorithm edge case handling.
 
     [ ] nested if
