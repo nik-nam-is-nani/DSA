@@ -36,7 +36,7 @@
     [X] if
         | Teach me the Python if statement for DSA — basic syntax, comparison operators (==, !=, >, <, >=, <=), and how if is used in algorithms for boundary checks and guards.
 
-    [ ] elif
+    [X] elif
         | Teach me Python elif for DSA — chaining multiple conditions, when to use elif vs multiple ifs, and how elif is used in categorization logic inside algorithms.
 
     [ ] else
