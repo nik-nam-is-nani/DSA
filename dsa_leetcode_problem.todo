@@ -1,0 +1,557 @@
+================================================================
+  PYTHON + DSA — LEETCODE PROBLEM CHECKLIST
+================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  PHASE 1 — PYTHON FOUNDATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[ ] VARIABLES & TYPES
+    [ ] #1    Two Sum                                    Easy
+    [ ] #9    Palindrome Number                          Easy
+    [ ] #13   Roman to Integer                           Easy
+    [ ] #412  Fizz Buzz                                  Easy
+    [ ] #2235 Add Two Integers                           Easy
+    [ ] #2469 Convert the Temperature                    Easy
+
+----------------------------------------------------------------
+
+[ ] CONDITIONALS
+    [ ] if / elif / else
+        [ ] #2798 Number of Employees Who Met the Target Easy
+        [ ] #2413 Smallest Even Multiple                 Easy
+        [ ] #1528 Shuffle String                         Easy
+        [ ] #2114 Maximum Number of Words in Sentences   Easy
+        [ ] #1903 Largest Odd Number in String           Easy
+
+    [ ] nested if
+        [ ] #1790 Check if One String Swap Makes Strings Equal   Easy
+        [ ] #1941 Check if All Characters Have Equal Occurrences Easy
+        [ ] #2496 Maximum Value of a String in an Array          Easy
+        [ ] #2194 Cells in a Range on an Excel Sheet             Easy
+        [ ] #1688 Count of Matches in Tournament                 Easy
+
+    [ ] ternary operator
+        [ ] #2652 Sum Multiples                          Easy
+        [ ] #2455 Average Value of Even Numbers Divisible by 3   Easy
+        [ ] #1295 Find Numbers with Even Number of Digits        Easy
+        [ ] #2574 Left and Right Sum Differences                 Easy
+        [ ] #1822 Sign of the Product of an Array                Easy
+
+----------------------------------------------------------------
+
+[ ] LOOPS
+    [ ] for loop
+        [ ] #1  Two Sum                                  Easy
+        [ ] #485 Max Consecutive Ones                    Easy
+        [ ] #1431 Kids With the Greatest Number of Candies Easy
+        [ ] #1929 Concatenation of Array                 Easy
+        [ ] #2011 Final Value of Variable After Performing Operations Easy
+
+    [ ] while loop
+        [ ] #9   Palindrome Number                       Easy
+        [ ] #7   Reverse Integer                         Medium
+        [ ] #202 Happy Number                            Easy
+        [ ] #258 Add Digits                              Easy
+        [ ] #1323 Maximum 69 Number                     Easy
+
+    [ ] range()
+        [ ] #1480 Running Sum of 1d Array                Easy
+        [ ] #1512 Number of Good Pairs                   Easy
+        [ ] #2418 Sort the People                        Easy
+        [ ] #1678 Goal Parser Interpretation             Easy
+        [ ] #1450 Number of Students Doing Homework at a Given Time Easy
+
+    [ ] break / continue
+        [ ] #2124 Check if All A's Appears Before All B's Easy
+        [ ] #1984 Minimum Difference Between Highest and Lowest of K Scores Easy
+        [ ] #2027 Minimum Moves to Convert String        Easy
+        [ ] #1299 Replace Elements with Greatest Element on Right Side Easy
+        [ ] #283  Move Zeroes                            Easy
+
+    [ ] nested loops
+        [ ] #1572 Matrix Diagonal Sum                    Easy
+        [ ] #2133 Check if Every Row and Column Contains All Numbers Easy
+        [ ] #1672 Richest Customer Wealth                Easy
+        [ ] #867  Transpose Matrix                       Easy
+        [ ] #566  Reshape the Matrix                     Easy
+
+----------------------------------------------------------------
+
+[ ] FUNCTIONS
+    [ ] def / return / parameters
+        [ ] #2235 Add Two Integers                       Easy
+        [ ] #2469 Convert the Temperature                Easy
+        [ ] #1108 Defanging an IP Address                Easy
+        [ ] #1773 Count Items Matching a Rule            Easy
+        [ ] #2325 Decode the Message                     Easy
+
+    [ ] default args / *args / **kwargs
+        [ ] #1281 Subtract the Product and Sum of Digits of an Integer Easy
+        [ ] #1342 Number of Steps to Reduce a Number to Zero Easy
+        [ ] #1365 How Many Numbers Are Smaller Than the Current Number Easy
+        [ ] #1389 Create Target Array in the Given Order Easy
+        [ ] #1394 Find Lucky Integer in an Array         Easy
+
+    [ ] scope
+        [ ] #2418 Sort the People                        Easy
+        [ ] #1603 Design Parking System                  Easy
+        [ ] #2716 Minimize String Length                 Easy
+        [ ] #1544 Make The String Great                  Easy
+        [ ] #2011 Final Value of Variable After Performing Operations Easy
+
+----------------------------------------------------------------
+
+[ ] LISTS & TUPLES
+    [ ] list creation / indexing / slicing
+        [ ] #1929 Concatenation of Array                 Easy
+        [ ] #1470 Shuffle the Array                      Easy
+        [ ] #1480 Running Sum of 1d Array                Easy
+        [ ] #1672 Richest Customer Wealth                Easy
+        [ ] #2574 Left and Right Sum Differences         Easy
+
+    [ ] .append() / .pop()
+        [ ] #1046 Last Stone Weight                      Easy
+        [ ] #682  Baseball Game                          Easy
+        [ ] #496  Next Greater Element I                 Easy
+        [ ] #1309 Decrypt String from Alphabet to Integer Mapping Easy
+        [ ] #2006 Count Number of Pairs With Absolute Difference K Easy
+
+    [ ] .sort() / sorted()
+        [ ] #561  Array Partition                        Easy
+        [ ] #2418 Sort the People                        Easy
+        [ ] #1051 Height Checker                         Easy
+        [ ] #1356 Sort Integers by The Number of 1 Bits Easy
+        [ ] #912  Sort an Array                          Medium
+
+    [ ] tuple vs list
+        [ ] #1512 Number of Good Pairs                   Easy
+        [ ] #2441 Largest Positive Integer That Exists With Its Negative Easy
+        [ ] #2367 Number of Arithmetic Triplets          Easy
+        [ ] #2506 Count Pairs of Similar Strings         Easy
+        [ ] #1213 Intersection of Three Sorted Arrays    Easy
+
+----------------------------------------------------------------
+
+[ ] DICTS & SETS
+    [ ] dict creation / keys / values / .get()
+        [ ] #1    Two Sum                                Easy
+        [ ] #217  Contains Duplicate                     Easy
+        [ ] #383  Ransom Note                            Easy
+        [ ] #242  Valid Anagram                          Easy
+        [ ] #1002 Find Common Characters                 Easy
+
+    [ ] set operations / in operator
+        [ ] #349  Intersection of Two Arrays             Easy
+        [ ] #771  Jewels and Stones                      Easy
+        [ ] #2215 Find the Difference of Two Arrays      Easy
+        [ ] #1684 Count the Number of Consistent Strings Easy
+        [ ] #2404 Most Frequent Even Element             Easy
+
+    [ ] hash concept / Counter / defaultdict
+        [ ] #347  Top K Frequent Elements                Medium
+        [ ] #692  Top K Frequent Words                   Medium
+        [ ] #451  Sort Characters By Frequency           Medium
+        [ ] #1207 Unique Number of Occurrences           Easy
+        [ ] #2053 Kth Distinct String in an Array        Easy
+
+----------------------------------------------------------------
+
+[ ] STRING METHODS
+    [ ] .split() / .join()
+        [ ] #557  Reverse Words in a String III          Easy
+        [ ] #1816 Truncate Sentence                      Easy
+        [ ] #1844 Replace All Digits with Characters     Easy
+        [ ] #2108 Find First Palindromic String in the Array Easy
+        [ ] #1768 Merge Strings Alternately              Easy
+
+    [ ] .strip() / .replace() / .find()
+        [ ] #1108 Defanging an IP Address                Easy
+        [ ] #1544 Make The String Great                  Easy
+        [ ] #2000 Reverse Prefix of Word                 Easy
+        [ ] #1832 Check if the Sentence Is Pangram       Easy
+        [ ] #1704 Determine if String Halves Are Alike   Easy
+
+    [ ] f-strings / slicing
+        [ ] #344  Reverse String                         Easy
+        [ ] #541  Reverse String II                      Easy
+        [ ] #917  Reverse Only Letters                   Easy
+        [ ] #125  Valid Palindrome                       Easy
+        [ ] #2710 Remove Trailing Zeros From a String    Easy
+
+----------------------------------------------------------------
+
+[ ] FILE & I/O
+    [ ] input() / print() / open() / read() / write() / with
+        [ ] #2562 Find the Array Concatenation Value     Easy
+        [ ] #1365 How Many Numbers Are Smaller Than the Current Number Easy
+        [ ] #2828 Check if a String Is an Acronym of Words Easy
+        [ ] #1859 Sorting the Sentence                   Easy
+        [ ] #1455 Check If a Word Occurs As a Prefix of Any Word Easy
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  PHASE 2 — CORE DATA STRUCTURES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[ ] ARRAY & LIST DS
+    [ ] 1D array / O(1) access
+        [ ] #1480 Running Sum of 1d Array                Easy
+        [ ] #1920 Build Array from Permutation           Easy
+        [ ] #1929 Concatenation of Array                 Easy
+        [ ] #485  Max Consecutive Ones                   Easy
+        [ ] #448  Find All Numbers Disappeared in an Array Easy
+
+    [ ] 2D array / matrix
+        [ ] #1672 Richest Customer Wealth                Easy
+        [ ] #1572 Matrix Diagonal Sum                    Easy
+        [ ] #867  Transpose Matrix                       Easy
+        [ ] #566  Reshape the Matrix                     Easy
+        [ ] #2133 Check if Every Row and Column Contains All Numbers Easy
+
+    [ ] dynamic array / O(n) insert-delete
+        [ ] #27   Remove Element                         Easy
+        [ ] #26   Remove Duplicates from Sorted Array    Easy
+        [ ] #977  Squares of a Sorted Array              Easy
+        [ ] #1089 Duplicate Zeros                        Easy
+        [ ] #189  Rotate Array                           Medium
+
+----------------------------------------------------------------
+
+[ ] LINKED LIST
+    [ ] Node class / singly linked list / traversal
+        [ ] #206  Reverse Linked List                    Easy
+        [ ] #237  Delete Node in a Linked List           Medium
+        [ ] #83   Remove Duplicates from Sorted List     Easy
+        [ ] #21   Merge Two Sorted Lists                 Easy
+        [ ] #876  Middle of the Linked List              Easy
+
+    [ ] doubly linked list / insert / delete
+        [ ] #2    Add Two Numbers                        Medium
+        [ ] #61   Rotate List                            Medium
+        [ ] #82   Remove Duplicates from Sorted List II  Medium
+        [ ] #92   Reverse Linked List II                 Medium
+        [ ] #203  Remove Linked List Elements            Easy
+
+    [ ] reverse
+        [ ] #206  Reverse Linked List                    Easy
+        [ ] #92   Reverse Linked List II                 Medium
+        [ ] #234  Palindrome Linked List                 Easy
+        [ ] #2130 Maximum Twin Sum of a Linked List      Medium
+        [ ] #24   Swap Nodes in Pairs                    Medium
+
+----------------------------------------------------------------
+
+[ ] STACK
+    [ ] LIFO / push / pop / peek / isEmpty / using list
+        [ ] #20   Valid Parentheses                      Easy
+        [ ] #682  Baseball Game                          Easy
+        [ ] #844  Backspace String Compare               Easy
+        [ ] #1047 Remove All Adjacent Duplicates In String Easy
+        [ ] #496  Next Greater Element I                 Easy
+
+    [ ] use cases
+        [ ] #155  Min Stack                              Medium
+        [ ] #150  Evaluate Reverse Polish Notation       Medium
+        [ ] #739  Daily Temperatures                     Medium
+        [ ] #394  Decode String                          Medium
+        [ ] #84   Largest Rectangle in Histogram         Hard
+
+----------------------------------------------------------------
+
+[ ] QUEUE
+    [ ] FIFO / enqueue / dequeue / deque
+        [ ] #933  Number of Recent Calls                 Easy
+        [ ] #232  Implement Queue using Stacks           Easy
+        [ ] #225  Implement Stack using Queues           Easy
+        [ ] #346  Moving Average from Data Stream        Easy
+        [ ] #950  Reveal Cards In Increasing Order       Medium
+
+    [ ] circular queue / priority queue
+        [ ] #622  Design Circular Queue                  Medium
+        [ ] #641  Design Circular Deque                  Medium
+        [ ] #1046 Last Stone Weight                      Easy
+        [ ] #703  Kth Largest Element in a Stream        Easy
+        [ ] #2336 Smallest Number in Infinite Set        Medium
+
+----------------------------------------------------------------
+
+[ ] HASH TABLE
+    [ ] hash function / collision / chaining / O(1) lookup
+        [ ] #1    Two Sum                                Easy
+        [ ] #242  Valid Anagram                          Easy
+        [ ] #217  Contains Duplicate                     Easy
+        [ ] #349  Intersection of Two Arrays             Easy
+        [ ] #290  Word Pattern                           Easy
+
+    [ ] dict internals / open addressing
+        [ ] #205  Isomorphic Strings                     Easy
+        [ ] #387  First Unique Character in a String     Easy
+        [ ] #389  Find the Difference                    Easy
+        [ ] #496  Next Greater Element I                 Easy
+        [ ] #599  Minimum Index Sum of Two Lists         Easy
+
+----------------------------------------------------------------
+
+[ ] TREES BASICS
+    [ ] root / parent / child / leaf / height / depth
+        [ ] #104  Maximum Depth of Binary Tree           Easy
+        [ ] #111  Minimum Depth of Binary Tree           Easy
+        [ ] #226  Invert Binary Tree                     Easy
+        [ ] #700  Search in a Binary Search Tree         Easy
+        [ ] #404  Sum of Left Leaves                     Easy
+
+    [ ] binary tree / tree traversal
+        [ ] #144  Binary Tree Preorder Traversal         Easy
+        [ ] #94   Binary Tree Inorder Traversal          Easy
+        [ ] #145  Binary Tree Postorder Traversal        Easy
+        [ ] #102  Binary Tree Level Order Traversal      Medium
+        [ ] #107  Binary Tree Level Order Traversal II   Medium
+
+----------------------------------------------------------------
+
+[ ] BINARY SEARCH TREE
+    [ ] BST property / insert / search
+        [ ] #700  Search in a Binary Search Tree         Easy
+        [ ] #701  Insert into a Binary Search Tree       Medium
+        [ ] #270  Closest Binary Search Tree Value       Easy
+        [ ] #530  Minimum Absolute Difference in BST     Easy
+        [ ] #783  Minimum Distance Between BST Nodes     Easy
+
+    [ ] delete / in-order traversal / balanced vs unbalanced
+        [ ] #450  Delete Node in a BST                   Medium
+        [ ] #98   Validate Binary Search Tree            Medium
+        [ ] #230  Kth Smallest Element in a BST          Medium
+        [ ] #108  Convert Sorted Array to Binary Search Tree Easy
+        [ ] #669  Trim a Binary Search Tree              Medium
+
+----------------------------------------------------------------
+
+[ ] HEAP
+    [ ] min-heap / max-heap / heapify / heappush / heappop / heapq
+        [ ] #703  Kth Largest Element in a Stream        Easy
+        [ ] #1046 Last Stone Weight                      Easy
+        [ ] #215  Kth Largest Element in an Array        Medium
+        [ ] #347  Top K Frequent Elements                Medium
+        [ ] #373  Find K Pairs with Smallest Sums        Medium
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  PHASE 3 — ALGORITHMS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[ ] BIG-O NOTATION
+    [ ] O(1) / O(n) / O(n²) / O(log n) / O(n log n) / space complexity
+        [ ] #1    Two Sum                                Easy
+        [ ] #217  Contains Duplicate                     Easy
+        [ ] #704  Binary Search                          Easy
+        [ ] #912  Sort an Array                          Medium
+        [ ] #75   Sort Colors                            Medium
+
+----------------------------------------------------------------
+
+[ ] LINEAR SEARCH
+    [ ] iterate list / find target / O(n) / unsorted / return index
+        [ ] #704  Binary Search                          Easy
+        [ ] #374  Guess Number Higher or Lower           Easy
+        [ ] #35   Search Insert Position                 Easy
+        [ ] #278  First Bad Version                      Easy
+        [ ] #1539 Kth Missing Positive Number            Easy
+
+----------------------------------------------------------------
+
+[ ] BINARY SEARCH
+    [ ] sorted array / left-right pointers / mid / O(log n) / iterative & recursive
+        [ ] #704  Binary Search                          Easy
+        [ ] #35   Search Insert Position                 Easy
+        [ ] #374  Guess Number Higher or Lower           Easy
+        [ ] #278  First Bad Version                      Easy
+        [ ] #69   Sqrt(x)                                Easy
+        [ ] #167  Two Sum II - Input Array Is Sorted     Medium
+        [ ] #33   Search in Rotated Sorted Array         Medium
+        [ ] #34   Find First and Last Position of Element in Sorted Array Medium
+        [ ] #153  Find Minimum in Rotated Sorted Array   Medium
+        [ ] #300  Longest Increasing Subsequence         Medium
+
+----------------------------------------------------------------
+
+[ ] BUBBLE SORT
+    [ ] adjacent swap / n passes / O(n²) / stable / best case O(n)
+        [ ] #912  Sort an Array                          Medium
+        [ ] #75   Sort Colors                            Medium
+        [ ] #283  Move Zeroes                            Easy
+        [ ] #905  Sort Array By Parity                   Easy
+        [ ] #1051 Height Checker                         Easy
+
+----------------------------------------------------------------
+
+[ ] MERGE SORT
+    [ ] divide / conquer / merge step / O(n log n) / O(n) space / stable
+        [ ] #912  Sort an Array                          Medium
+        [ ] #88   Merge Sorted Array                     Easy
+        [ ] #21   Merge Two Sorted Lists                 Easy
+        [ ] #148  Sort List                              Medium
+        [ ] #315  Count of Smaller Numbers After Self    Hard
+
+----------------------------------------------------------------
+
+[ ] QUICK SORT
+    [ ] pivot / partition / recursion / O(n log n) avg / O(n²) worst / in-place
+        [ ] #912  Sort an Array                          Medium
+        [ ] #215  Kth Largest Element in an Array        Medium
+        [ ] #75   Sort Colors                            Medium
+        [ ] #973  K Closest Points to Origin             Medium
+        [ ] #347  Top K Frequent Elements                Medium
+
+----------------------------------------------------------------
+
+[ ] RECURSION
+    [ ] base case / recursive case / call stack / factorial / fibonacci
+        [ ] #509  Fibonacci Number                       Easy
+        [ ] #70   Climbing Stairs                        Easy
+        [ ] #206  Reverse Linked List                    Easy
+        [ ] #344  Reverse String                         Easy
+        [ ] #1137 N-th Tribonacci Number                 Easy
+
+    [ ] tail recursion / memoization
+        [ ] #509  Fibonacci Number                       Easy
+        [ ] #70   Climbing Stairs                        Easy
+        [ ] #1137 N-th Tribonacci Number                 Easy
+        [ ] #746  Min Cost Climbing Stairs               Easy
+        [ ] #198  House Robber                           Medium
+
+----------------------------------------------------------------
+
+[ ] TWO POINTERS
+    [ ] sorted array trick / left-right pointers / shrink window
+        [ ] #344  Reverse String                         Easy
+        [ ] #977  Squares of a Sorted Array              Easy
+        [ ] #125  Valid Palindrome                       Easy
+        [ ] #283  Move Zeroes                            Easy
+        [ ] #26   Remove Duplicates from Sorted Array    Easy
+
+    [ ] pair sum / reverse string / palindrome
+        [ ] #167  Two Sum II - Input Array Is Sorted     Medium
+        [ ] #15   3Sum                                   Medium
+        [ ] #11   Container With Most Water              Medium
+        [ ] #42   Trapping Rain Water                    Hard
+        [ ] #18   4Sum                                   Medium
+
+----------------------------------------------------------------
+
+[ ] SLIDING WINDOW
+    [ ] fixed window / variable window
+        [ ] #643  Maximum Average Subarray I             Easy
+        [ ] #1876 Substrings of Size Three with Distinct Characters Easy
+        [ ] #2269 Find the K-Beauty of a Number          Easy
+        [ ] #1456 Maximum Number of Vowels in a Substring of Given Length Medium
+        [ ] #2090 K Radius Subarray Averages             Medium
+
+    [ ] max sum subarray / longest substring / O(n)
+        [ ] #3    Longest Substring Without Repeating Characters Medium
+        [ ] #209  Minimum Size Subarray Sum              Medium
+        [ ] #424  Longest Repeating Character Replacement Medium
+        [ ] #567  Permutation in String                  Medium
+        [ ] #76   Minimum Window Substring               Hard
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  PHASE 4 — ADVANCED TOPICS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[ ] GRAPH BASICS
+    [ ] adjacency list / adjacency matrix / directed vs undirected
+        [ ] #997  Find the Town Judge                    Easy
+        [ ] #1971 Find if Path Exists in Graph           Easy
+        [ ] #2642 Design Graph With Shortest Path Calculator Hard
+        [ ] #1557 Minimum Number of Vertices to Reach All Nodes Medium
+        [ ] #841  Keys and Rooms                         Medium
+
+    [ ] BFS (queue)
+        [ ] #1971 Find if Path Exists in Graph           Easy
+        [ ] #102  Binary Tree Level Order Traversal      Medium
+        [ ] #200  Number of Islands                      Medium
+        [ ] #994  Rotting Oranges                        Medium
+        [ ] #127  Word Ladder                            Hard
+
+    [ ] DFS (stack / recursion)
+        [ ] #104  Maximum Depth of Binary Tree           Easy
+        [ ] #200  Number of Islands                      Medium
+        [ ] #695  Max Area of Island                     Medium
+        [ ] #133  Clone Graph                            Medium
+        [ ] #417  Pacific Atlantic Water Flow            Medium
+
+----------------------------------------------------------------
+
+[ ] DYNAMIC PROGRAMMING
+    [ ] overlapping subproblems / optimal substructure
+        [ ] #509  Fibonacci Number                       Easy
+        [ ] #70   Climbing Stairs                        Easy
+        [ ] #746  Min Cost Climbing Stairs               Easy
+        [ ] #198  House Robber                           Medium
+        [ ] #213  House Robber II                        Medium
+
+    [ ] memoization top-down / tabulation bottom-up / Fibonacci DP
+        [ ] #509  Fibonacci Number                       Easy
+        [ ] #70   Climbing Stairs                        Easy
+        [ ] #1137 N-th Tribonacci Number                 Easy
+        [ ] #746  Min Cost Climbing Stairs               Easy
+        [ ] #118  Pascal's Triangle                      Easy
+
+    [ ] knapsack
+        [ ] #416  Partition Equal Subset Sum             Medium
+        [ ] #494  Target Sum                             Medium
+        [ ] #474  Ones and Zeroes                        Medium
+        [ ] #1049 Last Stone Weight II                   Medium
+        [ ] #322  Coin Change                            Medium
+
+----------------------------------------------------------------
+
+[ ] GREEDY ALGORITHMS
+    [ ] greedy choice property / activity selection
+        [ ] #455  Assign Cookies                         Easy
+        [ ] #860  Lemonade Change                        Easy
+        [ ] #1005 Maximize Sum Of Array After K Negations Easy
+        [ ] #2037 Minimum Number of Moves to Seat Everyone Easy
+        [ ] #452  Minimum Number of Arrows to Burst Balloons Medium
+
+    [ ] coin change greedy / when greedy fails
+        [ ] #122  Best Time to Buy and Sell Stock II     Medium
+        [ ] #45   Jump Game II                           Medium
+        [ ] #55   Jump Game                              Medium
+        [ ] #134  Gas Station                            Medium
+        [ ] #435  Non-overlapping Intervals              Medium
+
+----------------------------------------------------------------
+
+[ ] BACKTRACKING
+    [ ] state space tree / permutations / subsets / pruning
+        [ ] #46   Permutations                           Medium
+        [ ] #78   Subsets                                Medium
+        [ ] #77   Combinations                           Medium
+        [ ] #39   Combination Sum                        Medium
+        [ ] #40   Combination Sum II                     Medium
+
+    [ ] N-queens / sudoku solver
+        [ ] #51   N-Queens                               Hard
+        [ ] #52   N-Queens II                            Hard
+        [ ] #37   Sudoku Solver                          Hard
+        [ ] #131  Palindrome Partitioning                Medium
+        [ ] #93   Restore IP Addresses                   Medium
+
+----------------------------------------------------------------
+
+[ ] TRIE
+    [ ] TrieNode class / insert / search / startsWith / autocomplete / word dictionary
+        [ ] #208  Implement Trie (Prefix Tree)           Medium
+        [ ] #648  Replace Words                          Medium
+        [ ] #677  Map Sum Pairs                          Medium
+        [ ] #1268 Search Suggestions System              Medium
+        [ ] #212  Word Search II                         Hard
+        [ ] #211  Design Add and Search Words Data Structure Medium
+        [ ] #421  Maximum XOR of Two Numbers in an Array Medium
+
+================================================================
+  TOTAL: ~230 problems across all topics
+  Mark with [X] when solved
+================================================================
