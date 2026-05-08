@@ -17,12 +17,12 @@
 ----------------------------------------------------------------
 
 [ ] CONDITIONALS
-    [ ] if / elif / else
+    [X] if / elif / else
         [X] #2798 Number of Employees Who Met the Target Easy
         [X] #2413 Smallest Even Multiple                 Easy
         [X] #1528 Shuffle String                         Easy
-        [ ] #2114 Maximum Number of Words in Sentences   Easy
-        [ ] #1903 Largest Odd Number in String           Easy
+        [X] #2114 Maximum Number of Words in Sentences   Easy
+        [X] #1903 Largest Odd Number in String           Easy
 
     [ ] nested if
         [ ] #1790 Check if One String Swap Makes Strings Equal   Easy
