@@ -99,4 +99,7 @@ a1=str(a1)
 print(a1)
         
 
-
+res="4"==4
+val="alice3"
+print(int(val))
+print(res)

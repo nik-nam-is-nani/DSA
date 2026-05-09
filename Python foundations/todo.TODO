@@ -42,7 +42,7 @@
     [X] else
         | Teach me Python else for DSA — the default fallback in conditionals, how else pairs with if, and its role in algorithm edge case handling.
 
-    [ ] nested if
+    [X] nested if
         | Teach me nested if statements in Python for DSA — writing conditions inside conditions, how to manage readability, and examples of nested ifs in search and graph algorithms.
 
     [ ] ternary operator
