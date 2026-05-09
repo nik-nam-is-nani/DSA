@@ -101,16 +101,23 @@ print(a1)
 
 res="4"==4
 
-print(res)
-mass="abs23"
-print(any(mass.isalpha()))
-class Solution:
-    def maximumValue(self, strs: List[str]) -> int:
-        max_val = 0
-        for s in strs:
-            max_val = max(self.get_value(s), max_val)
-        return max_val
-    def get_value(self,s:str):
-        for idx, c in enumerate(s):
-            if c.isalpha():
-                return len(s)
+# print(res)
+# mass="abs23"
+# print(any(mass.isalpha()))
+
+# class Solution:
+#     def maximumValue(self, strs: List[str]) -> int:
+#         max_val = 0
+#         for s in strs:
+#             max_val = max(self.get_value(s), max_val)
+#         return max_val
+#     def get_value(self,s:str):
+#         for idx, c in enumerate(s):
+#             if c.isalpha():
+#                 return len(s)
+
+a="K"
+c="d"
+b=ord(a)+1
+print(f"{chr(b)}{c}")
+
