@@ -27,7 +27,7 @@
     [ ] nested if
         [X] #1790 Check if One String Swap Makes Strings Equal   Easy
         [X] #1941 Check if All Characters Have Equal Occurrences Easy
-        [ ] #2496 Maximum Value of a String in an Array          Easy
+        [X] #2496 Maximum Value of a String in an Array          Easy
         [ ] #2194 Cells in a Range on an Excel Sheet             Easy
         [ ] #1688 Count of Matches in Tournament                 Easy
 
