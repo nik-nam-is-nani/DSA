@@ -29,7 +29,7 @@
         [X] #1941 Check if All Characters Have Equal Occurrences Easy
         [X] #2496 Maximum Value of a String in an Array          Easy
         [X] #2194 Cells in a Range on an Excel Sheet             Easy
-        [ ] #1688 Count of Matches in Tournament                 Easy
+        [X] #1688 Count of Matches in Tournament                 Easy
 
     [ ] ternary operator
         [ ] #2652 Sum Multiples                          Easy
