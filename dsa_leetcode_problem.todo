@@ -31,7 +31,7 @@
         [X] #2194 Cells in a Range on an Excel Sheet             Easy
         [X] #1688 Count of Matches in Tournament                 Easy
 
-    [ ] ternary operator
+    [X] ternary operator
         [X] #2652 Sum Multiples                          Easy
         [X] #2455 Average Value of Even Numbers Divisible by 3   Easy
         [X] #1295 Find Numbers with Even Number of Digits        Easy
