@@ -24,7 +24,7 @@
         [X] #2114 Maximum Number of Words in Sentences   Easy
         [X] #1903 Largest Odd Number in String           Easy
 
-    [ ] nested if
+    [X] nested if
         [X] #1790 Check if One String Swap Makes Strings Equal   Easy
         [X] #1941 Check if All Characters Have Equal Occurrences Easy
         [X] #2496 Maximum Value of a String in an Array          Easy
