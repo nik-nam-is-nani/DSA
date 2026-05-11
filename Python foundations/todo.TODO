@@ -30,7 +30,7 @@
 
 ----------------------------------------------------------------
 
-[ ] CONDITIONALS
+[X] CONDITIONALS
     | Teach me Python conditionals (if, elif, else) for DSA — how decision-making works in code, comparison operators, nested conditions, and how conditionals are used inside searching and sorting algorithms.
 
     [X] if
