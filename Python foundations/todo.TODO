@@ -45,7 +45,7 @@
     [X] nested if
         | Teach me nested if statements in Python for DSA — writing conditions inside conditions, how to manage readability, and examples of nested ifs in search and graph algorithms.
 
-    [ ] ternary operator
+    [X] ternary operator
         | Teach me Python ternary operator (one-line if-else) for DSA — syntax like value_if_true if condition else value_if_false, when to use it, and examples in array manipulation.
 
 ----------------------------------------------------------------
