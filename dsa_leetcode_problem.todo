@@ -41,7 +41,7 @@
 ----------------------------------------------------------------
 
 [ ] LOOPS
-    [ ] for loop
+    [X] for loop
         [X] #1  Two Sum                                  Easy
         [X] #485 Max Consecutive Ones                    Easy
         [X] #1431 Kids With the Greatest Number of Candies Easy
