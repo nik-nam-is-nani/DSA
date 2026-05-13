@@ -50,7 +50,7 @@
 
     [ ] while loop
         [X] #9   Palindrome Number                       Easy
-        [ ] #7   Reverse Integer                         Medium
+        [X] #7   Reverse Integer                         Medium
         [ ] #202 Happy Number                            Easy
         [ ] #258 Add Digits                              Easy
         [ ] #1323 Maximum 69 Number                     Easy
