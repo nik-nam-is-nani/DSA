@@ -52,7 +52,7 @@
         [X] #9   Palindrome Number                       Easy
         [X] #7   Reverse Integer                         Medium
         [X] #202 Happy Number                            Easy
-        [ ] #258 Add Digits                              Easy
+        [X] #258 Add Digits                              Easy
         [ ] #1323 Maximum 69 Number                     Easy
 
     [ ] range()
