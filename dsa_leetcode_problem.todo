@@ -53,7 +53,7 @@
         [X] #7   Reverse Integer                         Medium
         [X] #202 Happy Number                            Easy
         [X] #258 Add Digits                              Easy
-        [ ] #1323 Maximum 69 Number                     Easy
+        [X] #1323 Maximum 69 Number                     Easy
 
     [ ] range()
         [ ] #1480 Running Sum of 1d Array                Easy
