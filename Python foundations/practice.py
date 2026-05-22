@@ -173,3 +173,16 @@ while i<=le:
         print(False)
         i+=1
 print(True)
+
+nums =[87063,61094,44530,21297,95857,93551,9918]
+ans=[]
+le=len(nums)
+mx=float('-inf')
+mn=float('inf')
+for i in range(le):
+    for j in range(le):
+        if j!=i:
+            mx=max(mx,abs(nums[j]))
+            mn=min(mn,abs(nums[j]))
+    ans.append(mx-mn)
+return ans
