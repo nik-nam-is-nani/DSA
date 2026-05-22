@@ -152,3 +152,24 @@ for i in range(len(startTime)):
     if startTime[i]-endTime[i]==queryTime:
         c+=1
     print(startTime[i]-endTime[i])
+s="aaba"
+
+
+le=len(s)-1
+i=0
+b=False
+a=False
+while i<=le:
+    print("val B ",b)
+    print("val A ",a)
+    if s[i]=='a' and b==False:
+        a=True
+        i+=1
+    elif s[i]=='b':
+        print("massssss")
+        b=True
+        i+=1
+    else:
+        print(False)
+        i+=1
+print(True)
