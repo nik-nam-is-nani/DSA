@@ -121,3 +121,26 @@ c="d"
 b=ord(a)+1
 print(f"{chr(b)}{c}")
 
+names = ["Mary","John","Emma"]
+heights = [180,165,170]
+
+sor=sorted(heights,reverse=True)
+res=[]
+for i in range(len(sor)):
+    res.append(names[heights.index(sor[i])])
+    print(res)
+
+
+
+
+
+peo = [
+    ["nik", 21],
+    ["ram", 18],
+    ["sai", 25]
+]
+
+peo.sort(key=lambda x:x[1], reverse=True)
+
+
+#used  when we are implementing the zip funticons in the dsa 
