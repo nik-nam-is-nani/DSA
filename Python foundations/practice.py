@@ -144,3 +144,11 @@ peo.sort(key=lambda x:x[1], reverse=True)
 
 
 #used  when we are implementing the zip funticons in the dsa 
+startTime = [1,2,3]
+endTime = [3,2,7]
+queryTime = 4
+c=0
+for i in range(len(startTime)):
+    if startTime[i]-endTime[i]==queryTime:
+        c+=1
+    print(startTime[i]-endTime[i])
