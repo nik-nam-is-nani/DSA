@@ -59,7 +59,7 @@
         [X] #1480 Running Sum of 1d Array                Easy
         [X] #1512 Number of Good Pairs                   Easy
         [X] #2418 Sort the People                        Easy
-        [ ] #1678 Goal Parser Interpretation             Easy
+        [X] #1678 Goal Parser Interpretation             Easy
         [ ] #1450 Number of Students Doing Homework at a Given Time Easy
 
     [ ] break / continue
