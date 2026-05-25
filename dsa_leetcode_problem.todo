@@ -67,7 +67,7 @@
         [X] #1984 Minimum Difference Between Highest and Lowest of K Scores Easy
         [X] #2027 Minimum Moves to Convert String        Easy
         [X] #1299 Replace Elements with Greatest Element on Right Side Easy
-        [ ] #283  Move Zeroes                            Easy
+        [X] #283  Move Zeroes                            Easy
 
     [ ] nested loops
         [ ] #1572 Matrix Diagonal Sum                    Easy
