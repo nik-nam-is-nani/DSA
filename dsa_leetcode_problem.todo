@@ -64,8 +64,8 @@
 
     [ ] break / continue
         [X] #2124 Check if All A's Appears Before All B's Easy
-        [ ] #1984 Minimum Difference Between Highest and Lowest of K Scores Easy
-        [ ] #2027 Minimum Moves to Convert String        Easy
+        [X] #1984 Minimum Difference Between Highest and Lowest of K Scores Easy
+        [X] #2027 Minimum Moves to Convert String        Easy
         [ ] #1299 Replace Elements with Greatest Element on Right Side Easy
         [ ] #283  Move Zeroes                            Easy
 
