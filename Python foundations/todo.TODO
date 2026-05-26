@@ -68,7 +68,7 @@
     [X] continue
         | Teach me Python continue statement for DSA — how continue skips the current iteration, examples in filtering arrays, and when continue helps simplify algorithm logic.
 
-    [ ] pass
+    [X] pass
         | Teach me Python pass statement for DSA — what pass does (placeholder), when to use it in skeleton code, and its role when building algorithm templates.
 
     [ ] nested loops
