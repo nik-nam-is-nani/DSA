@@ -53,7 +53,7 @@
 [ ] LOOPS
     | Teach me Python loops for DSA — for loops, while loops, range(), break, continue, pass, nested loops, and how loops are the backbone of almost every algorithm including search, sort, and traversal.
 
-    [ ] for loop
+    [X] for loop
         | Teach me Python for loop for DSA — iterating over lists, strings, ranges, and dictionaries, with examples of how for loops power linear search, array traversal, and matrix operations.
 
     [ ] while loop
