@@ -62,7 +62,7 @@
     [X] range()
         | Teach me Python range() for DSA — range(stop), range(start, stop), range(start, stop, step), reverse range, and how range() is used to generate indices in sorting and searching algorithms.
 
-    [ ] break
+    [X] break
         | Teach me Python break statement for DSA — how break exits a loop early, examples in linear search (stop when found), and how break affects algorithm efficiency.
 
     [ ] continue
