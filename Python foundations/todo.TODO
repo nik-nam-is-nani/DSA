@@ -59,7 +59,7 @@
     [X] while loop
         | Teach me Python while loop for DSA — condition-based looping, infinite loop prevention, and examples of while loops in binary search, linked list traversal, and sliding window problems.
 
-    [ ] range()
+    [X] range()
         | Teach me Python range() for DSA — range(stop), range(start, stop), range(start, stop, step), reverse range, and how range() is used to generate indices in sorting and searching algorithms.
 
     [ ] break
