@@ -56,7 +56,7 @@
     [X] for loop
         | Teach me Python for loop for DSA — iterating over lists, strings, ranges, and dictionaries, with examples of how for loops power linear search, array traversal, and matrix operations.
 
-    [ ] while loop
+    [X] while loop
         | Teach me Python while loop for DSA — condition-based looping, infinite loop prevention, and examples of while loops in binary search, linked list traversal, and sliding window problems.
 
     [ ] range()
