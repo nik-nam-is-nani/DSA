@@ -65,7 +65,7 @@
     [X] break
         | Teach me Python break statement for DSA — how break exits a loop early, examples in linear search (stop when found), and how break affects algorithm efficiency.
 
-    [ ] continue
+    [X] continue
         | Teach me Python continue statement for DSA — how continue skips the current iteration, examples in filtering arrays, and when continue helps simplify algorithm logic.
 
     [ ] pass
