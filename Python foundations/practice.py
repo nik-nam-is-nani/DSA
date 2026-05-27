@@ -186,3 +186,20 @@ for i in range(le):
             mn=min(mn,abs(nums[j]))
     ans.append(mx-mn)
 return ans
+
+class Solution:
+    def matrixReshape(self, mat: List[List[int]], r: int, c: int) -> List[List[int]]:
+        res = [[0] * c for _ in range(r)]
+        n, m = 0, 0
+        if (len(mat)*len(mat[0])) != r*c:
+            return mat
+        for i in range(len(mat)):
+            for j in range(len(mat[0])):
+                res[n][m] = mat[i][j]
+                m += 1
+                if m >= c:
+                    n+=1
+                    m = 0
+        return res
+
+
