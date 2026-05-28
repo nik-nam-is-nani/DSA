@@ -82,7 +82,7 @@
     [ ] def / return / parameters
         [X] #2235 Add Two Integers                       Easy
         [X] #2469 Convert the Temperature                Easy
-        [ ] #1108 Defanging an IP Address                Easy
+        [X] #1108 Defanging an IP Address                Easy
         [ ] #1773 Count Items Matching a Rule            Easy
         [ ] #2325 Decode the Message                     Easy
 
