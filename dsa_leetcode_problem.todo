@@ -87,7 +87,7 @@
         [X] #2325 Decode the Message                     Easy
 
     [ ] default args / *args / **kwargs
-        [ ] #1281 Subtract the Product and Sum of Digits of an Integer Easy
+        [X] #1281 Subtract the Product and Sum of Digits of an Integer Easy
         [ ] #1342 Number of Steps to Reduce a Number to Zero Easy
         [ ] #1365 How Many Numbers Are Smaller Than the Current Number Easy
         [ ] #1389 Create Target Array in the Given Order Easy
