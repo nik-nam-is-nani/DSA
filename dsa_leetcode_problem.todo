@@ -79,7 +79,7 @@
 ----------------------------------------------------------------
 
 [ ] FUNCTIONS
-    [ ] def / return / parameters
+    [X] def / return / parameters
         [X] #2235 Add Two Integers                       Easy
         [X] #2469 Convert the Temperature                Easy
         [X] #1108 Defanging an IP Address                Easy
