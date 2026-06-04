@@ -84,7 +84,7 @@
         [X] #2469 Convert the Temperature                Easy
         [X] #1108 Defanging an IP Address                Easy
         [X] #1773 Count Items Matching a Rule            Easy
-        [ ] #2325 Decode the Message                     Easy
+        [X] #2325 Decode the Message                     Easy
 
     [ ] default args / *args / **kwargs
         [ ] #1281 Subtract the Product and Sum of Digits of an Integer Easy
