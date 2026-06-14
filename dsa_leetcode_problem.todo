@@ -88,9 +88,9 @@
 
     [ ] default args / *args / **kwargs
         [X] #1281 Subtract the Product and Sum of Digits of an Integer Easy
-        [ ] #1342 Number of Steps to Reduce a Number to Zero Easy
-        [ ] #1365 How Many Numbers Are Smaller Than the Current Number Easy
-        [ ] #1389 Create Target Array in the Given Order Easy
+        [X] #1342 Number of Steps to Reduce a Number to Zero Easy
+        [X] #1365 How Many Numbers Are Smaller Than the Current Number Easy
+        [X] #1389 Create Target Array in the Given Order Easy
         [ ] #1394 Find Lucky Integer in an Array         Easy
 
     [ ] scope
