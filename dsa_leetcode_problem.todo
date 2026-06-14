@@ -86,7 +86,7 @@
         [X] #1773 Count Items Matching a Rule            Easy
         [X] #2325 Decode the Message                     Easy
 
-    [ ] default args / *args / **kwargs
+    [X] default args / *args / **kwargs
         [X] #1281 Subtract the Product and Sum of Digits of an Integer Easy
         [X] #1342 Number of Steps to Reduce a Number to Zero Easy
         [X] #1365 How Many Numbers Are Smaller Than the Current Number Easy
