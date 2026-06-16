@@ -88,7 +88,7 @@
     [X] parameters
         | Teach me Python function parameters for DSA — positional arguments, how parameters pass data into algorithm functions, and the difference between parameters and variables.
 
-    [ ] default args
+    [X] default args
         | Teach me Python default arguments for DSA — setting default parameter values, how defaults make algorithm functions flexible, and examples in sorting functions with optional comparators.
 
     [ ] *args
