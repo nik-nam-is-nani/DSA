@@ -91,7 +91,7 @@
     [X] default args
         | Teach me Python default arguments for DSA — setting default parameter values, how defaults make algorithm functions flexible, and examples in sorting functions with optional comparators.
 
-    [ ] *args
+    [X] *args
         | Teach me Python *args for DSA — accepting variable number of arguments, unpacking, and examples of *args in utility functions used alongside algorithm implementations.
 
     [ ] **kwargs
