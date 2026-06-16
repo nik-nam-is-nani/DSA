@@ -79,7 +79,7 @@
 [ ] FUNCTIONS
     | Teach me Python functions for DSA — defining with def, return values, parameters, default arguments, *args, **kwargs, scope, and how to write clean reusable functions for algorithm solutions.
 
-    [ ] def
+    [X] def
         | Teach me Python def keyword for DSA — function definition syntax, naming conventions, how to structure algorithm functions, and why breaking code into functions improves DSA problem solving.
 
     [ ] return
