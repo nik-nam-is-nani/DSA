@@ -82,7 +82,7 @@
     [X] def
         | Teach me Python def keyword for DSA — function definition syntax, naming conventions, how to structure algorithm functions, and why breaking code into functions improves DSA problem solving.
 
-    [ ] return
+    [X] return
         | Teach me Python return statement for DSA — returning single values, multiple values (tuple), returning early, and how return is used in recursive algorithms and helper functions.
 
     [ ] parameters
