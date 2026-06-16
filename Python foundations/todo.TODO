@@ -85,7 +85,7 @@
     [X] return
         | Teach me Python return statement for DSA — returning single values, multiple values (tuple), returning early, and how return is used in recursive algorithms and helper functions.
 
-    [ ] parameters
+    [X] parameters
         | Teach me Python function parameters for DSA — positional arguments, how parameters pass data into algorithm functions, and the difference between parameters and variables.
 
     [ ] default args
