@@ -104,7 +104,7 @@
 
 [ ] LISTS & TUPLES
     [ ] list creation / indexing / slicing
-        [ ] #1929 Concatenation of Array                 Easy
+        [X] #1929 Concatenation of Array                 Easy
         [ ] #1470 Shuffle the Array                      Easy
         [ ] #1480 Running Sum of 1d Array                Easy
         [ ] #1672 Richest Customer Wealth                Easy
