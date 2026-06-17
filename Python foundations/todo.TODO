@@ -97,7 +97,7 @@
     [X] **kwargs
         | Teach me Python **kwargs for DSA — accepting keyword arguments as a dictionary, when **kwargs is useful in algorithm configuration functions, with simple examples.
 
-    [ ] scope
+    [X] scope
         | Teach me Python variable scope for DSA — local vs global variables, how scope affects recursive functions, closures, and common scope bugs in algorithm code.
 
 ----------------------------------------------------------------
