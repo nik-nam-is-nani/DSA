@@ -107,7 +107,7 @@
         [X] #1929 Concatenation of Array                 Easy
         [X] #1470 Shuffle the Array                      Easy
         [X] #1480 Running Sum of 1d Array                Easy
-        [ ] #1672 Richest Customer Wealth                Easy
+        [X] #1672 Richest Customer Wealth                Easy
         [ ] #2574 Left and Right Sum Differences         Easy
 
     [ ] .append() / .pop()
