@@ -103,7 +103,7 @@
 ----------------------------------------------------------------
 
 [ ] LISTS & TUPLES
-    [ ] list creation / indexing / slicing
+    [X] list creation / indexing / slicing
         [X] #1929 Concatenation of Array                 Easy
         [X] #1470 Shuffle the Array                      Easy
         [X] #1480 Running Sum of 1d Array                Easy
