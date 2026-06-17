@@ -69,12 +69,12 @@
         [X] #1299 Replace Elements with Greatest Element on Right Side Easy
         [X] #283  Move Zeroes                            Easy
 
-    [ ] nested loops
+    [X] nested loops
         [X] #1572 Matrix Diagonal Sum                    Easy
         [X] #2133 Check if Every Row and Column Contains All Numbers Easy
         [X] #1672 Richest Customer Wealth                Easy
         [X] #867  Transpose Matrix                       Easy
-        [O] #566  Reshape the Matrix                     Easy
+        [X] #566  Reshape the Matrix                     Easy
 
 ----------------------------------------------------------------
 
