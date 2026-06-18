@@ -113,7 +113,7 @@
     [ ] .append() / .pop()
         [X] #1046 Last Stone Weight                      Easy
         [X] #682  Baseball Game                          Easy
-        [ ] #496  Next Greater Element I                 Easy
+        [X] #496  Next Greater Element I                 Easy
         [ ] #1309 Decrypt String from Alphabet to Integer Mapping Easy
         [ ] #2006 Count Number of Pairs With Absolute Difference K Easy
 
