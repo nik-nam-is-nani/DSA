@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Simple Calculator</title>
+<style>
+    .calculator {
+        width: 300px;
+        margin: 50px auto;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        padding: 20px;
+        background-color: #f9f9f9;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    .display {
+        width: 100%;
+        height: 40px;
+        font-size: 24px;
+        text-align: right;
+        margin-bottom: 15px;
+        padding: 10px;
+        box-sizing: border-box; /* Include padding and border in the element's total width and height */
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background-color: #eee;
+    }
+    .buttons {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 10px;
+    }
+    button {
+        width: 60px;
+        height: 60px;
+        font-size: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background-color: #fff;
+        cursor: pointer;
+        transition: background-color 0.2s ease;
+    }
+    button:hover {
+        background-color: #e0e0e0;
+    }
+    button:active {
+        background-color: #d0d0d0;
+    }
+    .operator {
+        background-color: #f0ad4e;
+        color: white;
+    }
+    .clear {
+        background-color: #d9534f;
+        color: white;
+    }
+    .equal {
+        background-color: #5cb85c;
+        color: white;
+        grid-column: span 2; /* Make the equal button wider */
+    }
+</style>
+</head>
+<body>
+
+<div class="calculator">
+    <input type="text" class="display" id="display" value="0" readonly>
+    <div class="buttons">
+        <button onclick="appendToDisplay('7')">7</button>
+        <button onclick="appendToDisplay('8')">8</button>
+        <button onclick="appendToDisplay('9')">9</button>
+        <button class="operator" onclick="setOperator('/')">/</button>
+
+        <button onclick="appendToDisplay('4')">4</button>
+        <button onclick="appendToDisplay('5')">5</button>
+        <button onclick="appendToDisplay('6')">6</button>
+        <button class="operator" onclick="setOperator('*')">*</button>
+
+        <button onclick="appendToDisplay('1')">1</button>
+        <button onclick="appendToDisplay('2')">2</button>
+        <button onclick="appendToDisplay('3')">3</button>
+        <button class="operator" onclick="setOperator('-')">-</button>
+
+        <button onclick="appendToDisplay('0')">0</button>
+        <button onclick="appendToDisplay('.')">.</button>
+        <button class="equal" onclick="calculateResult()">=</button>
+        <button class="operator" onclick="setOperator('+')">+</button>
+
+        <button class="clear" onclick="clearDisplay()" style="grid-column: span 4;">C</button>
+    </div>
+</div>
+
+<script>
+    let display = document.getElementById('display');
+    let currentInput = '';
+    let operator = '';
+    let firstOperand = null;
+    let waitingForSecondOperand = false;
+
+    function appendToDisplay(value) {
+        if (waitingForSecondOperand) {
+            currentInput = value;
+            waitingForSecondOperand = false;
+        } else {
+            currentInput = currentInput === '0' ? value : currentInput + value;
+        }
+        display.value = currentInput;
+    }
+
+    function setOperator(op) {
+        if (firstOperand === null) {
+            firstOperand = parseFloat(currentInput);
+        } else if (!waitingForSecondOperand) {
+            // If an operator is already set, perform the previous calculation
+            calculateResult();
+        }
+        operator = op;
+        waitingForSecondOperand = true;
+    }
+
+    function calculateResult() {
+        if (firstOperand === null || operator === '' || currentInput === '') {
+            return; // Do nothing if not enough information
+        }
+
+        let secondOperand = parseFloat(currentInput);
+        let result;
+
+        switch (operator) {
+            case '+':
+                result = firstOperand + secondOperand;
+                break;
+            case '-':
+                result = firstOperand - secondOperand;
+                break;
+            case '*':
+                result = firstOperand * secondOperand;
+                break;
+            case '/':
+                if (secondOperand === 0) {
+                    alert("Division by zero is not allowed!");
+                    clearDisplay(); // Clear everything on error
+                    return;
+                }
+                result = firstOperand / secondOperand;
+                break;
+            default:
+                return;
+        }
+
+        display.value = result;
+        firstOperand = result; // Allow chaining operations
+        operator = '';
+        waitingForSecondOperand = true; // Ready for the next operation on the result
+    }
+
+    function clearDisplay() {
+        display.value = '0';
+        currentInput = '';
+        operator = '';
+        firstOperand = null;
+        waitingForSecondOperand = false;
+    }
+</script>
+
+</body>
+</html>

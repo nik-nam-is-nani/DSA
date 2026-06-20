@@ -204,4 +204,26 @@
 
 # print(chr(97))
 
-print(ord('P'))
+# print(ord('P'))
+# n=[2,4,6,8,10]
+# ans=[]
+# ans.append(n[0])
+# for i in range(1,len(n)):
+    
+#     ans.append(ans[i-1]+n[i])
+# print(ans)
+# n=[2,4,6,8,10]
+# let=[]
+# ans=[]
+
+# right=[0]*(len(n)-1)
+# right.append(1)
+# let.append(1)
+# for i in range(1,len(n)):
+#     let.append(let[i-1]*n[i-1])
+#     right[n-i]=right[n-i+1]*n[n-i+1]
+# for i in range(len(n)):
+#     ans.append(let[i]*right[i])
+# print(ans)
+print(chr(0+97))
+print(ord('z'))
