@@ -120,9 +120,9 @@
     [ ] .sort() / sorted()
         [X] #561  Array Partition                        Easy
         [X] #2418 Sort the People                        Easy
-        [ ] #1051 Height Checker                         Easy
-        [ ] #1356 Sort Integers by The Number of 1 Bits Easy
-        [ ] #912  Sort an Array                          Medium
+        [X] #1051 Height Checker                         Easy
+        [X] #1356 Sort Integers by The Number of 1 Bits Easy
+        [X] #912  Sort an Array                          Medium
 
     [ ] tuple vs list
         [ ] #1512 Number of Good Pairs                   Easy
