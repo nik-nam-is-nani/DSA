@@ -117,7 +117,7 @@
         [X] #1309 Decrypt String from Alphabet to Integer Mapping Easy
         [X] #2006 Count Number of Pairs With Absolute Difference K Easy
 
-    [ ] .sort() / sorted()
+    [X] .sort() / sorted()
         [X] #561  Array Partition                        Easy
         [X] #2418 Sort the People                        Easy
         [X] #1051 Height Checker                         Easy
