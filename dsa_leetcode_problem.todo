@@ -118,7 +118,7 @@
         [X] #2006 Count Number of Pairs With Absolute Difference K Easy
 
     [ ] .sort() / sorted()
-        [ ] #561  Array Partition                        Easy
+        [X] #561  Array Partition                        Easy
         [ ] #2418 Sort the People                        Easy
         [ ] #1051 Height Checker                         Easy
         [ ] #1356 Sort Integers by The Number of 1 Bits Easy
