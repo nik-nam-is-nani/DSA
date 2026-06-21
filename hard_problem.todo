@@ -1,240 +1,178 @@
 ================================================================
-  PYTHON + DSA — MEDIUM & HARD ONLY CHECKLIST
+  PYTHON + DSA — NEW MEDIUM & HARD CHECKLIST (Not in Original)
 ================================================================
 
-[ ] LISTS & TUPLES
-    [ ] .sort() / sorted()
-        [ ] #912  Sort an Array                          Medium
+[ ] LISTS & TUPLES / SORTING
+        [ ] #56   Merge Intervals                        Medium
+        [ ] #57   Insert Interval                         Medium
+        [ ] #179  Largest Number                          Medium
+        [ ] #handled  -- skip
 
 ----------------------------------------------------------------
 
-[ ] DICTS & SETS
-    [ ] hash concept / Counter / defaultdict
-        [ ] #347  Top K Frequent Elements                Medium
-        [ ] #692  Top K Frequent Words                   Medium
-        [ ] #451  Sort Characters By Frequency           Medium
-
-================================================================
-  PHASE 2 — CORE DATA STRUCTURES (Medium/Hard)
-================================================================
-
-[ ] ARRAY & LIST DS
-    [ ] dynamic array / O(n) insert-delete
-        [ ] #189  Rotate Array                           Medium
+[ ] DICTS & SETS / HASHING
+        [ ] #49   Group Anagrams                          Medium
+        [ ] #336  Palindrome Pairs                        Hard
+        [ ] #438  Find All Anagrams in a String           Medium
+        [ ] #1218 Longest Arithmetic Subsequence of Given Difference Medium
+        [ ] #128  Longest Consecutive Sequence            Medium
 
 ----------------------------------------------------------------
 
 [ ] LINKED LIST
-    [ ] Node class / singly linked list / traversal
-        [ ] #237  Delete Node in a Linked List           Medium
-
-    [ ] doubly linked list / insert / delete
-        [ ] #2    Add Two Numbers                        Medium
-        [ ] #61   Rotate List                            Medium
-        [ ] #82   Remove Duplicates from Sorted List II  Medium
-        [ ] #92   Reverse Linked List II                 Medium
-
-    [ ] reverse
-        [ ] #92   Reverse Linked List II                 Medium
-        [ ] #2130 Maximum Twin Sum of a Linked List      Medium
-        [ ] #24   Swap Nodes in Pairs                    Medium
+        [ ] #19   Remove Nth Node From End of List        Medium
+        [ ] #25   Reverse Nodes in k-Group                Hard
+        [ ] #138  Copy List with Random Pointer           Medium
+        [ ] #143  Reorder List                            Medium
+        [ ] #146  LRU Cache                               Medium
+        [ ] #23   Merge k Sorted Lists                     Hard
 
 ----------------------------------------------------------------
 
 [ ] STACK
-    [ ] use cases
-        [ ] #155  Min Stack                              Medium
-        [ ] #150  Evaluate Reverse Polish Notation       Medium
-        [ ] #739  Daily Temperatures                     Medium
-        [ ] #394  Decode String                          Medium
-        [ ] #84   Largest Rectangle in Histogram         Hard
+        [ ] #856  Score of Parentheses                    Medium
+        [ ] #1190 Reverse Substrings Between Each Pair of Parentheses Medium
+        [ ] #735  Asteroid Collision                       Medium
+        [ ] #224  Basic Calculator                         Hard
+        [ ] #71   Simplify Path                            Medium
 
 ----------------------------------------------------------------
 
-[ ] QUEUE
-    [ ] FIFO / enqueue / dequeue / deque
-        [ ] #950  Reveal Cards In Increasing Order       Medium
-
-    [ ] circular queue / priority queue
-        [ ] #622  Design Circular Queue                  Medium
-        [ ] #641  Design Circular Deque                  Medium
-        [ ] #2336 Smallest Number in Infinite Set        Medium
+[ ] QUEUE / DEQUE
+        [ ] #239  Sliding Window Maximum                   Hard
+        [ ] #862  Shortest Subarray with Sum at Least K    Hard
+        [ ] #1438 Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit Medium
+        [ ] #1696 Jump Game VI                             Medium
 
 ----------------------------------------------------------------
 
-[ ] TREES BASICS
-    [ ] binary tree / tree traversal
-        [ ] #102  Binary Tree Level Order Traversal      Medium
-        [ ] #107  Binary Tree Level Order Traversal II   Medium
+[ ] TREES
+        [ ] #105  Construct Binary Tree from Preorder and Inorder Traversal Medium
+        [ ] #199  Binary Tree Right Side View              Medium
+        [ ] #236  Lowest Common Ancestor of a Binary Tree  Medium
+        [ ] #124  Binary Tree Maximum Path Sum              Hard
+        [ ] #297  Serialize and Deserialize Binary Tree    Hard
 
 ----------------------------------------------------------------
 
 [ ] BINARY SEARCH TREE
-    [ ] BST property / insert / search
-        [ ] #701  Insert into a Binary Search Tree       Medium
-
-    [ ] delete / in-order traversal / balanced vs unbalanced
-        [ ] #450  Delete Node in a BST                   Medium
-        [ ] #98   Validate Binary Search Tree            Medium
-        [ ] #230  Kth Smallest Element in a BST          Medium
-        [ ] #669  Trim a Binary Search Tree              Medium
+        [ ] #173  Binary Search Tree Iterator              Medium
+        [ ] #538  Convert BST to Greater Tree               Medium
+        [ ] #1038 Binary Search Tree to Greater Sum Tree    Medium
+        [ ] #95   Unique Binary Search Trees II             Medium
+        [ ] #99   Recover Binary Search Tree                Medium
 
 ----------------------------------------------------------------
 
 [ ] HEAP
-    [ ] min-heap / max-heap / heapify / heappush / heappop / heapq
-        [ ] #215  Kth Largest Element in an Array        Medium
-        [ ] #347  Top K Frequent Elements                Medium
-        [ ] #373  Find K Pairs with Smallest Sums        Medium
+        [ ] #295  Find Median from Data Stream             Hard
+        [ ] #355  Design Twitter                            Medium
+        [ ] #767  Reorganize String                        Medium
+        [ ] #1041 Reorder Routes to Make All Paths Lead to the City Zero Medium
+        [ ] #1167 Minimum Cost to Connect Sticks            Medium
 
 ================================================================
-  PHASE 3 — ALGORITHMS (Medium/Hard)
+  PHASE 3 — ALGORITHMS (New)
 ================================================================
-
-[ ] BIG-O NOTATION
-        [ ] #912  Sort an Array                          Medium
-        [ ] #75   Sort Colors                            Medium
-
-----------------------------------------------------------------
 
 [ ] BINARY SEARCH
-        [ ] #167  Two Sum II - Input Array Is Sorted     Medium
-        [ ] #33   Search in Rotated Sorted Array         Medium
-        [ ] #34   Find First and Last Position of Element in Sorted Array Medium
-        [ ] #153  Find Minimum in Rotated Sorted Array   Medium
-        [ ] #300  Longest Increasing Subsequence         Medium
+        [ ] #4    Median of Two Sorted Arrays              Hard
+        [ ] #240  Search a 2D Matrix II                    Medium
+        [ ] #74   Search a 2D Matrix                       Medium
+        [ ] #658  Find K Closest Elements                  Medium
+        [ ] #875  Koko Eating Bananas                       Medium
 
 ----------------------------------------------------------------
 
-[ ] BUBBLE SORT
-        [ ] #912  Sort an Array                          Medium
-        [ ] #75   Sort Colors                            Medium
+[ ] SORTING (Merge/Quick related)
+        [ ] #324  Wiggle Sort II                            Medium
+        [ ] #406  Queue Reconstruction by Height           Medium
+        [ ] #767  Reorganize String                         Medium
+        [ ] #968  Binary Tree Cameras                       Hard
 
 ----------------------------------------------------------------
 
-[ ] MERGE SORT
-        [ ] #912  Sort an Array                          Medium
-        [ ] #148  Sort List                              Medium
-        [ ] #315  Count of Smaller Numbers After Self    Hard
-
-----------------------------------------------------------------
-
-[ ] QUICK SORT
-        [ ] #912  Sort an Array                          Medium
-        [ ] #215  Kth Largest Element in an Array        Medium
-        [ ] #75   Sort Colors                            Medium
-        [ ] #973  K Closest Points to Origin             Medium
-        [ ] #347  Top K Frequent Elements                Medium
-
-----------------------------------------------------------------
-
-[ ] RECURSION
-    [ ] tail recursion / memoization
-        [ ] #198  House Robber                           Medium
+[ ] RECURSION / MEMOIZATION
+        [ ] #91   Decode Ways                               Medium
+        [ ] #139  Word Break                                Medium
+        [ ] #140  Word Break II                             Hard
+        [ ] #494  Target Sum                                Medium (skip if already used)
+        [ ] #329  Longest Increasing Path in a Matrix       Hard
 
 ----------------------------------------------------------------
 
 [ ] TWO POINTERS
-    [ ] pair sum / reverse string / palindrome
-        [ ] #167  Two Sum II - Input Array Is Sorted     Medium
-        [ ] #15   3Sum                                   Medium
-        [ ] #11   Container With Most Water              Medium
-        [ ] #42   Trapping Rain Water                    Hard
-        [ ] #18   4Sum                                   Medium
+        [ ] #16   3Sum Closest                              Medium
+        [ ] #680  Valid Palindrome II                       Easy→skip
+        [ ] #948  Bag of Tokens                             Medium
+        [ ] #1499 Max Value of Equation                     Hard
+        [ ] #1632 Rank Transform of a Matrix                Hard
 
 ----------------------------------------------------------------
 
 [ ] SLIDING WINDOW
-    [ ] fixed window / variable window
-        [ ] #1456 Maximum Number of Vowels in a Substring of Given Length Medium
-        [ ] #2090 K Radius Subarray Averages             Medium
-
-    [ ] max sum subarray / longest substring / O(n)
-        [ ] #3    Longest Substring Without Repeating Characters Medium
-        [ ] #209  Minimum Size Subarray Sum              Medium
-        [ ] #424  Longest Repeating Character Replacement Medium
-        [ ] #567  Permutation in String                  Medium
-        [ ] #76   Minimum Window Substring               Hard
+        [ ] #1838 Frequency of the Most Frequent Element    Medium
+        [ ] #1493 Longest Subarray of 1's After Deleting One Element Medium
+        [ ] #1574 Shortest Subarray to be Removed to Make Array Sorted Medium
+        [ ] #995  Minimum Number of K Consecutive Bit Flips Hard
+        [ ] #1248 Count Number of Nice Subarrays            Medium
 
 ================================================================
-  PHASE 4 — ADVANCED TOPICS (Medium/Hard)
+  PHASE 4 — ADVANCED TOPICS (New)
 ================================================================
 
-[ ] GRAPH BASICS
-    [ ] adjacency list / adjacency matrix / directed vs undirected
-        [ ] #2642 Design Graph With Shortest Path Calculator Hard
-        [ ] #1557 Minimum Number of Vertices to Reach All Nodes Medium
-        [ ] #841  Keys and Rooms                         Medium
-
-    [ ] BFS (queue)
-        [ ] #102  Binary Tree Level Order Traversal      Medium
-        [ ] #200  Number of Islands                      Medium
-        [ ] #994  Rotting Oranges                        Medium
-        [ ] #127  Word Ladder                            Hard
-
-    [ ] DFS (stack / recursion)
-        [ ] #200  Number of Islands                      Medium
-        [ ] #695  Max Area of Island                     Medium
-        [ ] #133  Clone Graph                            Medium
-        [ ] #417  Pacific Atlantic Water Flow            Medium
+[ ] GRAPH
+        [ ] #207  Course Schedule                           Medium
+        [ ] #210  Course Schedule II                         Medium
+        [ ] #785  Is Graph Bipartite?                       Medium
+        [ ] #1462 Course Schedule IV                         Medium
+        [ ] #1584 Min Cost to Connect All Points             Medium
+        [ ] #743  Network Delay Time                          Medium
+        [ ] #787  Cheapest Flights Within K Stops            Medium
+        [ ] #1135 Connecting Cities With Minimum Cost        Medium
 
 ----------------------------------------------------------------
 
 [ ] DYNAMIC PROGRAMMING
-    [ ] overlapping subproblems / optimal substructure
-        [ ] #198  House Robber                           Medium
-        [ ] #213  House Robber II                        Medium
-
-    [ ] knapsack
-        [ ] #416  Partition Equal Subset Sum             Medium
-        [ ] #494  Target Sum                             Medium
-        [ ] #474  Ones and Zeroes                        Medium
-        [ ] #1049 Last Stone Weight II                   Medium
-        [ ] #322  Coin Change                            Medium
+        [ ] #62   Unique Paths                               Medium
+        [ ] #64   Minimum Path Sum                           Medium
+        [ ] #72   Edit Distance                              Hard
+        [ ] #1143 Longest Common Subsequence                Medium
+        [ ] #1235 Maximum Profit in Job Scheduling           Hard
+        [ ] #312  Burst Balloons                              Hard
+        [ ] #543  Diameter of Binary Tree (DP on tree)       Easy→skip
+        [ ] #5    Longest Palindromic Substring              Medium
 
 ----------------------------------------------------------------
 
-[ ] GREEDY ALGORITHMS
-    [ ] activity selection
-        [ ] #452  Minimum Number of Arrows to Burst Balloons Medium
-
-    [ ] coin change greedy / when greedy fails
-        [ ] #122  Best Time to Buy and Sell Stock II     Medium
-        [ ] #45   Jump Game II                           Medium
-        [ ] #55   Jump Game                              Medium
-        [ ] #134  Gas Station                             Medium
-        [ ] #435  Non-overlapping Intervals              Medium
+[ ] GREEDY
+        [ ] #1899 Merge Triplets to Form Target Triplet     Medium
+        [ ] #1024 Video Stitching                            Medium
+        [ ] #621  Task Scheduler                             Medium
+        [ ] #135  Candy                                      Hard
+        [ ] #2071 Maximum Number of Tasks You Can Assign     Hard
 
 ----------------------------------------------------------------
 
 [ ] BACKTRACKING
-    [ ] state space tree / permutations / subsets / pruning
-        [ ] #46   Permutations                           Medium
-        [ ] #78   Subsets                                Medium
-        [ ] #77   Combinations                           Medium
-        [ ] #39   Combination Sum                        Medium
-        [ ] #40   Combination Sum II                     Medium
-
-    [ ] N-queens / sudoku solver
-        [ ] #51   N-Queens                               Hard
-        [ ] #52   N-Queens II                            Hard
-        [ ] #37   Sudoku Solver                           Hard
-        [ ] #131  Palindrome Partitioning                Medium
-        [ ] #93   Restore IP Addresses                   Medium
+        [ ] #79   Word Search                                Medium
+        [ ] #17   Letter Combinations of a Phone Number      Medium
+        [ ] #79   (dup, skip)
+        [ ] #22   Generate Parentheses                       Medium
+        [ ] #79   Word Search (dup, skip)
+        [ ] #491  Non-decreasing Subsequences                Medium
+        [ ] #698  Partition to K Equal Sum Subsets            Medium
 
 ----------------------------------------------------------------
 
 [ ] TRIE
-    [ ] insert / search / startsWith / autocomplete
-        [ ] #208  Implement Trie (Prefix Tree)           Medium
-        [ ] #648  Replace Words                          Medium
-        [ ] #677  Map Sum Pairs                          Medium
-        [ ] #1268 Search Suggestions System              Medium
-        [ ] #212  Word Search II                         Hard
-        [ ] #211  Design Add and Search Words Data Structure Medium
-        [ ] #421  Maximum XOR of Two Numbers in an Array Medium
+        [ ] #1707 Maximum XOR With an Element From Array    Hard
+        [ ] #1233 Remove Sub-Folders from the Filesystem    Medium
+        [ ] #720  Longest Word in Dictionary                 Medium
+        [ ] #1023 Camelcase Matching                          Medium
+        [ ] #336  Palindrome Pairs (dup from hashing, skip)
 
 ================================================================
-  TOTAL: ~85 unique Medium/Hard problems (dupes across topics
-  kept as-is, matching original list's repetition pattern)
+  TOTAL: ~90 NEW unique Medium/Hard problems, none overlapping
+  with the original checklist
 ================================================================
