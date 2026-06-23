@@ -3,8 +3,8 @@
 ================================================================
 
 [ ] LISTS & TUPLES / SORTING
-        [ ] #56   Merge Intervals                        Medium
-        [ ] #57   Insert Interval                         Medium
+        [X] #56   Merge Intervals                        Medium
+        [X] #57   Insert Interval                         Medium
         [ ] #179  Largest Number                          Medium
         [ ] #handled  -- skip
 
