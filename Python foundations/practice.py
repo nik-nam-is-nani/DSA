@@ -229,17 +229,26 @@
 # print(ord('z'))
 
 
-intervals = [[1,3],[2,6],[8,10],[15,18]]
-a=intervals[1]
-print(a[1])
-print(sorted(intervals))
-invervals=sorted(intervals)
-ans=[]
-# for i in range(len(intervals)):
-#     if intervals[i][1]>intervals[i+1][0]:
-#         ans.append([invervals[i][0],intervals[i+1][1]])
-#     else:
-#         ans.append([intervals[i]])
-print(ans)  
-nums = [3,30,34,5,9]
-print(nums[2])
+# intervals = [[1,3],[2,6],[8,10],[15,18]]
+# a=intervals[1]
+# print(a[1])
+# print(sorted(intervals))
+# invervals=sorted(intervals)
+# ans=[]
+# # for i in range(len(intervals)):
+# #     if intervals[i][1]>intervals[i+1][0]:
+# #         ans.append([invervals[i][0],intervals[i+1][1]])
+# #     else:
+# #         ans.append([intervals[i]])
+# print(ans)  
+# nums = [3,30,34,5,9]
+# print(nums[2])
+ans=[8,6,4,65,7,78]
+v="".join(map(str,ans))
+# print(v)
+nums=[222]
+# ans=str(ans)
+# # print(str(nums[0]))
+# # print("".join(ans))
+
+print( )

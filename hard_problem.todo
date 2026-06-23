@@ -5,7 +5,7 @@
 [ ] LISTS & TUPLES / SORTING
         [X] #56   Merge Intervals                        Medium
         [X] #57   Insert Interval                         Medium
-        [ ] #179  Largest Number                          Medium
+        [X] #179  Largest Number                          Medium
         [ ] #handled  -- skip
 
 ----------------------------------------------------------------
