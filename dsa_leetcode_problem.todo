@@ -134,7 +134,7 @@
 ----------------------------------------------------------------
 
 [ ] DICTS & SETS
-    [ ] dict creation / keys / values / .get()
+    [X] dict creation / keys / values / .get()
         [X] #1    Two Sum                                Easy
         [X] #217  Contains Duplicate                     Easy
         [X] #383  Ransom Note                            Easy
