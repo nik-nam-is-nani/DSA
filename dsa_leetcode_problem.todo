@@ -135,7 +135,7 @@
 
 [ ] DICTS & SETS
     [ ] dict creation / keys / values / .get()
-        [ ] #1    Two Sum                                Easy
+        [X] #1    Two Sum                                Easy
         [ ] #217  Contains Duplicate                     Easy
         [ ] #383  Ransom Note                            Easy
         [ ] #242  Valid Anagram                          Easy
