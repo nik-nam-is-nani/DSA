@@ -243,12 +243,33 @@
 # print(ans)  
 # nums = [3,30,34,5,9]
 # print(nums[2])
-ans=[8,6,4,65,7,78]
-v="".join(map(str,ans))
-# print(v)
-nums=[222]
-# ans=str(ans)
-# # print(str(nums[0]))
-# # print("".join(ans))
+# ans=[8,6,4,65,7,78]
+# v="".join(map(str,ans))
+# # print(v)
+# nums=[222]
+# # ans=str(ans)
+# # # print(str(nums[0]))
+# # # print("".join(ans))
 
-print( )
+# print( )
+words = ["aba","aabb","abcd","bac","aabc"]
+# ans=[]
+# for i in words:
+#     ans.append("".join(set(i)))
+# print(words)
+# print(ans)
+from collections import Counter
+words_counter = Counter()
+total_pairs = 0
+for word in words:
+    tuple_of_word = tuple(set(word))
+    print(tuple_of_word)
+    words_counter[tuple_of_word] += 1 
+print(words_counter)
+pairs = 0
+for key, value in words_counter.items():
+    if value > 1:
+        print(value)
+        pairs += (value * (value - 1)) // 2
+print(pairs)
+        

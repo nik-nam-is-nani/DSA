@@ -128,7 +128,7 @@
         [X] #1512 Number of Good Pairs                   Easy
         [X] #2441 Largest Positive Integer That Exists With Its Negative Easy
         [X] #2367 Number of Arithmetic Triplets          Easy
-        [ ] #2506 Count Pairs of Similar Strings         Easy
+        [X] #2506 Count Pairs of Similar Strings         Easy
         [ ] #1213 Intersection of Three Sorted Arrays    Easy
 
 ----------------------------------------------------------------
