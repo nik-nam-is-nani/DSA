@@ -11,7 +11,7 @@
 ----------------------------------------------------------------
 
 [ ] DICTS & SETS / HASHING
-        [ ] #49   Group Anagrams                          Medium
+        [X] #49   Group Anagrams                          Medium
         [ ] #336  Palindrome Pairs                        Hard
         [ ] #438  Find All Anagrams in a String           Medium
         [ ] #1218 Longest Arithmetic Subsequence of Given Difference Medium
