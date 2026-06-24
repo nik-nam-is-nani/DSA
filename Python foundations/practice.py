@@ -272,6 +272,17 @@ words = ["aba","aabb","abcd","bac","aabc"]
 #         print(value)
 #         pairs += (value * (value - 1)) // 2
 # print(pairs)
-s="belll"
-m="bel"
-print(s-m)
+# s="belll"
+# m="bel"
+# print(s-m)
+allowed = "abc"
+words = ["a","b","c","ab","ac","bc","abc"]
+dic=[]
+c=0
+for i in allowed:
+    dic.append(i)
+for i in words:
+    print(set(i),set(allowed))
+    if set(i)<= set(allowed):
+        c+=1
+print(c)
