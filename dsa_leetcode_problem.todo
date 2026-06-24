@@ -144,7 +144,7 @@
     [ ] set operations / in operator
         [X] #349  Intersection of Two Arrays             Easy
         [X] #771  Jewels and Stones                      Easy
-        [ ] #2215 Find the Difference of Two Arrays      Easy
+        [X] #2215 Find the Difference of Two Arrays      Easy
         [ ] #1684 Count the Number of Consistent Strings Easy
         [ ] #2404 Most Frequent Even Element             Easy
 
