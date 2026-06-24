@@ -258,18 +258,20 @@ words = ["aba","aabb","abcd","bac","aabc"]
 #     ans.append("".join(set(i)))
 # print(words)
 # print(ans)
-from collections import Counter
-words_counter = Counter()
-total_pairs = 0
-for word in words:
-    tuple_of_word = tuple(set(word))
-    print(tuple_of_word)
-    words_counter[tuple_of_word] += 1 
-print(words_counter)
-pairs = 0
-for key, value in words_counter.items():
-    if value > 1:
-        print(value)
-        pairs += (value * (value - 1)) // 2
-print(pairs)
-        
+# from collections import Counter
+# words_counter = Counter()
+# total_pairs = 0
+# for word in words:
+#     tuple_of_word = tuple(set(word))
+#     print(tuple_of_word)
+#     words_counter[tuple_of_word] += 1 
+# print(words_counter)
+# pairs = 0
+# for key, value in words_counter.items():
+#     if value > 1:
+#         print(value)
+#         pairs += (value * (value - 1)) // 2
+# print(pairs)
+s="belll"
+m="bel"
+print(s-m)

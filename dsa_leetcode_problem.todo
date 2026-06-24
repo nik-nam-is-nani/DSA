@@ -138,8 +138,8 @@
         [X] #1    Two Sum                                Easy
         [X] #217  Contains Duplicate                     Easy
         [X] #383  Ransom Note                            Easy
-        [ ] #242  Valid Anagram                          Easy
-        [ ] #1002 Find Common Characters                 Easy
+        [X] #242  Valid Anagram                          Easy
+        [X] #1002 Find Common Characters                 Easy
 
     [ ] set operations / in operator
         [ ] #349  Intersection of Two Arrays             Easy
