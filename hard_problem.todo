@@ -12,7 +12,7 @@
 
 [ ] DICTS & SETS / HASHING
         [X] #49   Group Anagrams                          Medium
-        [ ] #336  Palindrome Pairs                        Hard
+        [X] #336  Palindrome Pairs                        Hard
         [ ] #438  Find All Anagrams in a String           Medium
         [ ] #1218 Longest Arithmetic Subsequence of Given Difference Medium
         [ ] #128  Longest Consecutive Sequence            Medium
