@@ -150,7 +150,7 @@
 
     [ ] hash concept / Counter / defaultdict
         [X] #347  Top K Frequent Elements                Medium
-        [ ] #692  Top K Frequent Words                   Medium
+        [X] #692  Top K Frequent Words                   Medium
         [ ] #451  Sort Characters By Frequency           Medium
         [ ] #1207 Unique Number of Occurrences           Easy
         [ ] #2053 Kth Distinct String in an Array        Easy
