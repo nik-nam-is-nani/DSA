@@ -141,7 +141,7 @@
         [X] #242  Valid Anagram                          Easy
         [X] #1002 Find Common Characters                 Easy
 
-    [ ] set operations / in operator
+    [X] set operations / in operator
         [X] #349  Intersection of Two Arrays             Easy
         [X] #771  Jewels and Stones                      Easy
         [X] #2215 Find the Difference of Two Arrays      Easy
