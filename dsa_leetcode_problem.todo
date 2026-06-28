@@ -149,7 +149,7 @@
         [X] #2404 Most Frequent Even Element             Easy
 
     [ ] hash concept / Counter / defaultdict
-        [ ] #347  Top K Frequent Elements                Medium
+        [X] #347  Top K Frequent Elements                Medium
         [ ] #692  Top K Frequent Words                   Medium
         [ ] #451  Sort Characters By Frequency           Medium
         [ ] #1207 Unique Number of Occurrences           Easy
