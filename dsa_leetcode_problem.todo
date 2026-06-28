@@ -152,7 +152,7 @@
         [X] #347  Top K Frequent Elements                Medium
         [X] #692  Top K Frequent Words                   Medium
         [X] #451  Sort Characters By Frequency           Medium
-        [ ] #1207 Unique Number of Occurrences           Easy
+        [X] #1207 Unique Number of Occurrences           Easy
         [ ] #2053 Kth Distinct String in an Array        Easy
 
 ----------------------------------------------------------------
