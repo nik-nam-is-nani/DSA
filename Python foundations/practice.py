@@ -275,14 +275,64 @@ words = ["aba","aabb","abcd","bac","aabc"]
 # s="belll"
 # m="bel"
 # print(s-m)
-allowed = "abc"
-words = ["a","b","c","ab","ac","bc","abc"]
-dic=[]
-c=0
-for i in allowed:
-    dic.append(i)
-for i in words:
-    print(set(i),set(allowed))
-    if set(i)<= set(allowed):
-        c+=1
-print(c)
+# allowed = "abc"
+# words = ["a","b","c","ab","ac","bc","abc"]
+# dic=[]
+# c=0
+# for i in allowed:
+#     dic.append(i)
+# for i in words:
+#     print(set(i),set(allowed))
+#     if set(i)<= set(allowed):
+#         c+=1
+# print(c)
+# nums = [0,1,2,2,4,4,4,1]
+# ans={}
+# ans1=[]
+# for i in range(len(nums)):
+#     if nums[i] not in ans:
+#         ans[nums[i]]=1
+#     else:
+#         ans[nums[i]]+=1
+# for key,val in ans.items():
+#     if key%2==0:
+#         ans1.append(key)
+# ans1.sort()
+# print(ans1)
+# m=0
+# for i in range(len(ans1)):
+#     m=max(m,ans1[i])
+# print(m)  
+# 
+from collections import Counter
+nums = [0,1,2,0,0,0,2,4,4,1]  
+nums=[i for i in nums if i %2==0]
+ans = dict(sorted(Counter(i for i in nums if i % 2 == 0).items()))
+print(ans)
+v1=0
+key=0
+for i,j in ans.items():
+    if v1<j:
+        v1=j
+        key=i
+print(key)
+
+# v1=ans[max(ans)]
+# print(v1)
+# for i,j in ans.items():
+#     if v1==j:
+#         print(i)
+#         break
+# print(ans)
+# print(ans[max(ans)])
+# ans1=[]
+# for i in range(len(nums)):
+#     if nums[i] not in ans and nums[i]%2==0:
+#         ans[nums[i]]=1
+#     elif nums[i]%2==0:
+#         ans[nums[i]]+=1
+# print(ans)
+# m=0
+# for i in range(len(ans)):
+#     m=max(m,ans[i])
+# print(m)
