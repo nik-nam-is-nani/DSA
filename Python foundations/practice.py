@@ -305,17 +305,17 @@ words = ["aba","aabb","abcd","bac","aabc"]
 # print(m)  
 # 
 from collections import Counter
-nums = [0,1,2,0,0,0,2,4,4,1]  
-nums=[i for i in nums if i %2==0]
-ans = dict(sorted(Counter(i for i in nums if i % 2 == 0).items()))
-print(ans)
-v1=0
-key=0
-for i,j in ans.items():
-    if v1<j:
-        v1=j
-        key=i
-print(key)
+# nums = [0,1,2,0,0,0,2,4,4,1]  
+# nums=[i for i in nums if i %2==0]
+# ans = dict(sorted(Counter(i for i in nums if i % 2 == 0).items()))
+# print(ans)
+# v1=0
+# key=0
+# for i,j in ans.items():
+#     if v1<j:
+#         v1=j
+#         key=i
+# print(key)
 
 # v1=ans[max(ans)]
 # print(v1)
@@ -336,3 +336,13 @@ print(key)
 # for i in range(len(ans)):
 #     m=max(m,ans[i])
 # print(m)
+# s = "Aabbcccddeeee"
+# co=Counter(s)
+# for i,j in co.items():
+#     print(i)
+
+# print(co)
+# ans=dict(sorted(co.items(),key=lambda x: x[1],reverse=True))
+# for i,j in ans.items():
+#     print(i*j,end="")
+
