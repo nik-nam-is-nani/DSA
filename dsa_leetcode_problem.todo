@@ -167,9 +167,9 @@
 
     [ ] .strip() / .replace() / .find()
         [X] #1108 Defanging an IP Address                Easy
-        [ ] #1544 Make The String Great                  Easy
-        [ ] #2000 Reverse Prefix of Word                 Easy
-        [ ] #1832 Check if the Sentence Is Pangram       Easy
+        [X] #1544 Make The String Great                  Easy
+        [X] #2000 Reverse Prefix of Word                 Easy
+        [X] #1832 Check if the Sentence Is Pangram       Easy
         [ ] #1704 Determine if String Halves Are Alike   Easy
 
     [ ] f-strings / slicing

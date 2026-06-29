@@ -353,7 +353,17 @@ from collections import Counter
 # ans=s.split()
 # print(ans)
 # print(chr(ord('a')+int('1')))
-words = ["abc","car","ada","racecar","cool"]
-for i in words:
-    if i[::]==i[::-1]:
-        print(i)
+# words = ["abc","car","ada","racecar","cool"]
+# for i in words:
+#     if i[::]==i[::-1]:
+#         print(i)
+# ans=[]
+# word = "abcdefd"
+# ch="d"
+# for i in range(len(word)):
+#     if word[i]==ch:
+#         # print(word[:-i])
+# print(word[::-3])
+for i in range(ord('a'),ord('z')+1):
+    print(chr(i),end=" ")
+ 
