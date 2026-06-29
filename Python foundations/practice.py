@@ -364,6 +364,24 @@ from collections import Counter
 #     if word[i]==ch:
 #         # print(word[:-i])
 # print(word[::-3])
-for i in range(ord('a'),ord('z')+1):
-    print(chr(i),end=" ")
+# for i in range(ord('a'),ord('z')+1):
+#     print(chr(i),end=" ")
+# s = "textbook"
+# a=Counter(s[:len(s)//2])
+# b=Counter(s[len(s)//2:])
+# print(a)
+# print(b)
+# ove=['a','e','i','o','u','A','E','I','O','U']
+# o=[i for i in b if i in ove]
+# o1=[i for i in a if i in ove]
+# ans1=0
+# ans2=0
+# print(o)
+# for i in b:
+#     ans1+=b[i]
+# for i in a:
+#     ans2+=a[i]
+# print(ans1==ans2)
+
+
  

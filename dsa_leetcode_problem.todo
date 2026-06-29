@@ -170,7 +170,7 @@
         [X] #1544 Make The String Great                  Easy
         [X] #2000 Reverse Prefix of Word                 Easy
         [X] #1832 Check if the Sentence Is Pangram       Easy
-        [ ] #1704 Determine if String Halves Are Alike   Easy
+        [X] #1704 Determine if String Halves Are Alike   Easy
 
     [ ] f-strings / slicing
         [ ] #344  Reverse String                         Easy
