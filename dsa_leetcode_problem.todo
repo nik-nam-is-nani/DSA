@@ -153,15 +153,15 @@
         [X] #692  Top K Frequent Words                   Medium
         [X] #451  Sort Characters By Frequency           Medium
         [X] #1207 Unique Number of Occurrences           Easy
-        [ ] #2053 Kth Distinct String in an Array        Easy
+        [X] #2053 Kth Distinct String in an Array        Easy
 
 ----------------------------------------------------------------
 
 [ ] STRING METHODS
     [ ] .split() / .join()
-        [ ] #557  Reverse Words in a String III          Easy
-        [ ] #1816 Truncate Sentence                      Easy
-        [ ] #1844 Replace All Digits with Characters     Easy
+        [X] #557  Reverse Words in a String III          Easy
+        [X] #1816 Truncate Sentence                      Easy
+        [X] #1844 Replace All Digits with Characters     Easy
         [ ] #2108 Find First Palindromic String in the Array Easy
         [ ] #1768 Merge Strings Alternately              Easy
 

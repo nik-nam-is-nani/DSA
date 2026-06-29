@@ -346,3 +346,10 @@ from collections import Counter
 # for i,j in ans.items():
 #     print(i*j,end="")
 
+# arr = ["d","b","c","b","c","a"]
+# k = 2
+# print(Counter(arr))
+# s = "Hello how are you Contestant"
+# ans=s.split()
+# print(ans)
+print(chr(ord('a')+int('1')))
