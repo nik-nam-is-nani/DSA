@@ -382,6 +382,22 @@ from collections import Counter
 # for i in a:
 #     ans2+=a[i]
 # print(ans1==ans2)
-
-
- 
+s = "cbaebabacd"
+s=list(s[::])
+p = "abc"
+print('8*88*********888')
+# print(s)
+# print(sorted(p))
+p=sorted(p)
+# print(p)
+k=len(p)
+ans=[]
+# print(p)
+che=[]
+for i in range(len(s)):
+    # print(i)
+    # print(sorted(s[i:i+k]))
+    # print(list(s[i:i+k]))
+    if sorted(s[i:i+k]) == p:
+        ans.append(i)
+print(ans)
