@@ -158,15 +158,15 @@
 ----------------------------------------------------------------
 
 [ ] STRING METHODS
-    [ ] .split() / .join()
+    [X] .split() / .join()
         [X] #557  Reverse Words in a String III          Easy
         [X] #1816 Truncate Sentence                      Easy
         [X] #1844 Replace All Digits with Characters     Easy
         [X] #2108 Find First Palindromic String in the Array Easy
-        [ ] #1768 Merge Strings Alternately              Easy
+        [X] #1768 Merge Strings Alternately              Easy
 
     [ ] .strip() / .replace() / .find()
-        [ ] #1108 Defanging an IP Address                Easy
+        [X] #1108 Defanging an IP Address                Easy
         [ ] #1544 Make The String Great                  Easy
         [ ] #2000 Reverse Prefix of Word                 Easy
         [ ] #1832 Check if the Sentence Is Pangram       Easy
