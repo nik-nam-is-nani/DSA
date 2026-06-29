@@ -352,4 +352,8 @@ from collections import Counter
 # s = "Hello how are you Contestant"
 # ans=s.split()
 # print(ans)
-print(chr(ord('a')+int('1')))
+# print(chr(ord('a')+int('1')))
+words = ["abc","car","ada","racecar","cool"]
+for i in words:
+    if i[::]==i[::-1]:
+        print(i)

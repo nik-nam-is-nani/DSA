@@ -162,7 +162,7 @@
         [X] #557  Reverse Words in a String III          Easy
         [X] #1816 Truncate Sentence                      Easy
         [X] #1844 Replace All Digits with Characters     Easy
-        [ ] #2108 Find First Palindromic String in the Array Easy
+        [X] #2108 Find First Palindromic String in the Array Easy
         [ ] #1768 Merge Strings Alternately              Easy
 
     [ ] .strip() / .replace() / .find()
