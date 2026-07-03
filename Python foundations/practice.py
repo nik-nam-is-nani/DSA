@@ -382,22 +382,97 @@ from collections import Counter
 # for i in a:
 #     ans2+=a[i]
 # print(ans1==ans2)
-s = "cbaebabacd"
-s=list(s[::])
-p = "abc"
-print('8*88*********888')
+# s = "abab"
+# # s=str(s[::])
+# p = "ab"
+# print('8*88*********888')
 # print(s)
 # print(sorted(p))
-p=sorted(p)
+# p=sorted(p)
 # print(p)
-k=len(p)
-ans=[]
+# k=len(p)
+# ans=[]
 # print(p)
-che=[]
-for i in range(len(s)):
+# che=[]
+
+# p=sum(ord(p[::]))
+# print(p)
+# for i in range(len(s)):
+    # print(str(s[i:i+k]))
+    # print(p)
     # print(i)
     # print(sorted(s[i:i+k]))
     # print(list(s[i:i+k]))
-    if sorted(s[i:i+k]) == p:
-        ans.append(i)
-print(ans)
+#     if str(s[i:i+k]) == sum():
+#         ans.append(i)
+# print(ans)
+s = "abab"
+p = "ab"
+
+# psum=0
+# for i in p:
+#     psum+=ord(i)
+# p1=[]
+# p1.append(ord(s[0]))
+# for i in range(1,len(s)):
+#     p1.append(ord(s[i])+p1[i-1])
+# print(p1)
+# anop=[]
+# i=0
+# j=i+len(p)
+
+# while j<len(p1):
+#     if p1[j]-p1[i] ==psum:
+#         anop.append(i+1)
+#     # anop.append(p1[j]-p1[i])
+#     j+=1
+#     i+=1
+# # anop.append()
+# print(anop)
+# pan=[]
+
+
+
+# psum=0
+# for i in p:
+#     psum+=ord(i)
+# p1=[]
+# p1.append(ord(s[0]))
+# for i in range(1,len(s)):
+#     p1.append(ord(s[i])+p1[i-1])
+# print(p1)
+# anop=[]
+# i=0
+# j=i+len(p)
+# while j<len(p1):
+#     print(p1[j])
+#     if p1[i]==psum:
+#         anop.insert(0,0)
+#         print(anop)
+#     if p1[j]-p1[i] ==psum:
+#         anop.append(i+1)
+#         print(anop)
+#     # anop.append(p1[j]-p1[i])
+#     j+=1
+#     i+=1
+# # anop.append()
+# print(anop)
+
+
+
+# print(psum)
+# ans=[]
+# t=0
+# a=0
+# for i in range(len(s)):
+#     if t<len(p):
+#         a+=ord(s[i])
+#         print(a)
+#         t+=1
+#     else:
+#         ans.append(a)
+#         t=0
+#         a=0
+# print(ans)
+a=list(map(int,input().split()))
+print(a[::-1])

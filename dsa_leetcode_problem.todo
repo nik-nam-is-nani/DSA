@@ -173,8 +173,8 @@
         [X] #1704 Determine if String Halves Are Alike   Easy
 
     [ ] f-strings / slicing
-        [ ] #344  Reverse String                         Easy
-        [ ] #541  Reverse String II                      Easy
+        [X] #344  Reverse String                         Easy
+        [X] #541  Reverse String II                      Easy
         [ ] #917  Reverse Only Letters                   Easy
         [ ] #125  Valid Palindrome                       Easy
         [ ] #2710 Remove Trailing Zeros From a String    Easy
