@@ -184,7 +184,7 @@
 [ ] FILE & I/O
     [ ] input() / print() / open() / read() / write() / with
         [X] #2562 Find the Array Concatenation Value     Easy
-        [ ] #1365 How Many Numbers Are Smaller Than the Current Number Easy
+        [X] #1365 How Many Numbers Are Smaller Than the Current Number Easy
         [ ] #2828 Check if a String Is an Acronym of Words Easy
         [ ] #1859 Sorting the Sentence                   Easy
         [ ] #1455 Check If a Word Occurs As a Prefix of Any Word Easy
