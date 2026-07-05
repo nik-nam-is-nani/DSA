@@ -172,12 +172,12 @@
         [X] #1832 Check if the Sentence Is Pangram       Easy
         [X] #1704 Determine if String Halves Are Alike   Easy
 
-    [ ] f-strings / slicing
+    [X] f-strings / slicing
         [X] #344  Reverse String                         Easy
         [X] #541  Reverse String II                      Easy
         [X] #917  Reverse Only Letters                   Easy
         [X] #125  Valid Palindrome                       Easy
-        [ ] #2710 Remove Trailing Zeros From a String    Easy
+        [X] #2710 Remove Trailing Zeros From a String    Easy
 
 ----------------------------------------------------------------
 
