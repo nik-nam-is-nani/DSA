@@ -406,8 +406,8 @@ from collections import Counter
 #     if str(s[i:i+k]) == sum():
 #         ans.append(i)
 # print(ans)
-s = "abab"
-p = "ab"
+# s = "abab"
+# p = "ab"
 
 # psum=0
 # for i in p:
@@ -474,5 +474,10 @@ p = "ab"
 #         t=0
 #         a=0
 # print(ans)
-a=list(map(int,input().split()))
-print(a[::-1])
+# a=list(map(int,input().split()))
+# print(a[::-1])
+print(ord('A'))
+print(ord('a'))
+print(ord('Z'))
+print(ord('z'))
+print(chr(91))
