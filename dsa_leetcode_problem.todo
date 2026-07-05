@@ -183,7 +183,7 @@
 
 [ ] FILE & I/O
     [ ] input() / print() / open() / read() / write() / with
-        [ ] #2562 Find the Array Concatenation Value     Easy
+        [X] #2562 Find the Array Concatenation Value     Easy
         [ ] #1365 How Many Numbers Are Smaller Than the Current Number Easy
         [ ] #2828 Check if a String Is an Acronym of Words Easy
         [ ] #1859 Sorting the Sentence                   Easy
