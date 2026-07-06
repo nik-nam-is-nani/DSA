@@ -202,7 +202,7 @@
         [X] #485  Max Consecutive Ones                   Easy
         [X] #448  Find All Numbers Disappeared in an Array Easy
 
-    [ ] 2D array / matrix
+    [X] 2D array / matrix
         [X] #1672 Richest Customer Wealth                Easy
         [X] #1572 Matrix Diagonal Sum                    Easy
         [X] #867  Transpose Matrix                       Easy
