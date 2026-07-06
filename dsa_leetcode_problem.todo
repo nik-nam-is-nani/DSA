@@ -133,7 +133,7 @@
 
 ----------------------------------------------------------------
 
-[ ] DICTS & SETS
+[X] DICTS & SETS
     [X] dict creation / keys / values / .get()
         [X] #1    Two Sum                                Easy
         [X] #217  Contains Duplicate                     Easy
