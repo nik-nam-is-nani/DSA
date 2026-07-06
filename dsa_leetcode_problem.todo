@@ -227,7 +227,7 @@
         [X] #876  Middle of the Linked List              Easy
 
     [ ] doubly linked list / insert / delete
-        [ ] #2    Add Two Numbers                        Medium
+        [X] #2    Add Two Numbers                        Medium
         [ ] #61   Rotate List                            Medium
         [ ] #82   Remove Duplicates from Sorted List II  Medium
         [ ] #92   Reverse Linked List II                 Medium
