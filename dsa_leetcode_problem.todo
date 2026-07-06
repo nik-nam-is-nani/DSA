@@ -181,7 +181,7 @@
 
 ----------------------------------------------------------------
 
-[ ] FILE & I/O
+[X] FILE & I/O
     [X] input() / print() / open() / read() / write() / with
         [X] #2562 Find the Array Concatenation Value     Easy
         [X] #1365 How Many Numbers Are Smaller Than the Current Number Easy
