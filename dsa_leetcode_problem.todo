@@ -194,7 +194,7 @@
   PHASE 2 — CORE DATA STRUCTURES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-[ ] ARRAY & LIST DS
+[X] ARRAY & LIST DS
     [X] 1D array / O(1) access
         [X] #1480 Running Sum of 1d Array                Easy
         [X] #1920 Build Array from Permutation           Easy
