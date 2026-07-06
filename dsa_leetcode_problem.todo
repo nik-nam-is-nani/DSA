@@ -219,12 +219,12 @@
 ----------------------------------------------------------------
 
 [ ] LINKED LIST
-    [ ] Node class / singly linked list / traversal
-        [ ] #206  Reverse Linked List                    Easy
-        [ ] #237  Delete Node in a Linked List           Medium
-        [ ] #83   Remove Duplicates from Sorted List     Easy
-        [ ] #21   Merge Two Sorted Lists                 Easy
-        [ ] #876  Middle of the Linked List              Easy
+    [X] Node class / singly linked list / traversal
+        [X] #206  Reverse Linked List                    Easy
+        [X] #237  Delete Node in a Linked List           Medium
+        [X] #83   Remove Duplicates from Sorted List     Easy
+        [X] #21   Merge Two Sorted Lists                 Easy
+        [X] #876  Middle of the Linked List              Easy
 
     [ ] doubly linked list / insert / delete
         [ ] #2    Add Two Numbers                        Medium
