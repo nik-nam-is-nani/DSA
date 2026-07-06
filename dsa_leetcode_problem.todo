@@ -206,7 +206,7 @@
         [X] #1672 Richest Customer Wealth                Easy
         [X] #1572 Matrix Diagonal Sum                    Easy
         [X] #867  Transpose Matrix                       Easy
-        [ ] #566  Reshape the Matrix                     Easy
+        [X] #566  Reshape the Matrix                     Easy
         [ ] #2133 Check if Every Row and Column Contains All Numbers Easy
 
     [ ] dynamic array / O(n) insert-delete
