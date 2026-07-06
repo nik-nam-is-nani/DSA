@@ -205,7 +205,7 @@
     [ ] 2D array / matrix
         [X] #1672 Richest Customer Wealth                Easy
         [X] #1572 Matrix Diagonal Sum                    Easy
-        [ ] #867  Transpose Matrix                       Easy
+        [X] #867  Transpose Matrix                       Easy
         [ ] #566  Reshape the Matrix                     Easy
         [ ] #2133 Check if Every Row and Column Contains All Numbers Easy
 
