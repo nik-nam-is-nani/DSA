@@ -124,7 +124,7 @@
         [X] #1356 Sort Integers by The Number of 1 Bits Easy
         [X] #912  Sort an Array                          Medium
 
-    [ ] tuple vs list
+    [X] tuple vs list
         [X] #1512 Number of Good Pairs                   Easy
         [X] #2441 Largest Positive Integer That Exists With Its Negative Easy
         [X] #2367 Number of Arithmetic Triplets          Easy
