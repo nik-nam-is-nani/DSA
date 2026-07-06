@@ -157,7 +157,7 @@
 
 ----------------------------------------------------------------
 
-[ ] STRING METHODS
+[X] STRING METHODS
     [X] .split() / .join()
         [X] #557  Reverse Words in a String III          Easy
         [X] #1816 Truncate Sentence                      Easy
