@@ -228,7 +228,7 @@
 
     [ ] doubly linked list / insert / delete
         [X] #2    Add Two Numbers                        Medium
-        [ ] #61   Rotate List                            Medium
+        [X] #61   Rotate List                            Medium
         [ ] #82   Remove Duplicates from Sorted List II  Medium
         [ ] #92   Reverse Linked List II                 Medium
         [ ] #203  Remove Linked List Elements            Easy
