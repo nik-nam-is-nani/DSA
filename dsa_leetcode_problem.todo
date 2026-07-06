@@ -207,7 +207,7 @@
         [X] #1572 Matrix Diagonal Sum                    Easy
         [X] #867  Transpose Matrix                       Easy
         [X] #566  Reshape the Matrix                     Easy
-        [ ] #2133 Check if Every Row and Column Contains All Numbers Easy
+        [X] #2133 Check if Every Row and Column Contains All Numbers Easy
 
     [ ] dynamic array / O(n) insert-delete
         [ ] #27   Remove Element                         Easy
