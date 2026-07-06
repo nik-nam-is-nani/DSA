@@ -476,8 +476,17 @@ from collections import Counter
 # print(ans)
 # a=list(map(int,input().split()))
 # print(a[::-1])
-print(ord('A'))
-print(ord('a'))
-print(ord('Z'))
-print(ord('z'))
-print(chr(91))
+# print(ord('A'))
+# print(ord('a'))
+# print(ord('Z'))
+# print(ord('z'))
+# print(chr(91))
+# arr = [1,0,2,3,0,4,5,0]
+# ans=[]
+# for i in arr:
+#     if i==0:
+#         ans.append(i)
+#         ans.append(0)
+#     else:
+#         ans.append(i)
+# print(ans[:len(arr)])

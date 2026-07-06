@@ -203,7 +203,7 @@
         [X] #448  Find All Numbers Disappeared in an Array Easy
 
     [ ] 2D array / matrix
-        [ ] #1672 Richest Customer Wealth                Easy
+        [X] #1672 Richest Customer Wealth                Easy
         [ ] #1572 Matrix Diagonal Sum                    Easy
         [ ] #867  Transpose Matrix                       Easy
         [ ] #566  Reshape the Matrix                     Easy
