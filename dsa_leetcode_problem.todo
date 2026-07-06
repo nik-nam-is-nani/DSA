@@ -195,12 +195,12 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 [ ] ARRAY & LIST DS
-    [ ] 1D array / O(1) access
-        [ ] #1480 Running Sum of 1d Array                Easy
-        [ ] #1920 Build Array from Permutation           Easy
-        [ ] #1929 Concatenation of Array                 Easy
-        [ ] #485  Max Consecutive Ones                   Easy
-        [ ] #448  Find All Numbers Disappeared in an Array Easy
+    [X] 1D array / O(1) access
+        [X] #1480 Running Sum of 1d Array                Easy
+        [X] #1920 Build Array from Permutation           Easy
+        [X] #1929 Concatenation of Array                 Easy
+        [X] #485  Max Consecutive Ones                   Easy
+        [X] #448  Find All Numbers Disappeared in an Array Easy
 
     [ ] 2D array / matrix
         [ ] #1672 Richest Customer Wealth                Easy
