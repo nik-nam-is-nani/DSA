@@ -102,7 +102,7 @@
 
 ----------------------------------------------------------------
 
-[ ] LISTS & TUPLES
+[X] LISTS & TUPLES
     [X] list creation / indexing / slicing
         [X] #1929 Concatenation of Array                 Easy
         [X] #1470 Shuffle the Array                      Easy
