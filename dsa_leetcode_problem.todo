@@ -209,7 +209,7 @@
         [X] #566  Reshape the Matrix                     Easy
         [X] #2133 Check if Every Row and Column Contains All Numbers Easy
 
-    [ ] dynamic array / O(n) insert-delete
+    [X] dynamic array / O(n) insert-delete
         [X] #27   Remove Element                         Easy
         [X] #26   Remove Duplicates from Sorted Array    Easy
         [X] #977  Squares of a Sorted Array              Easy
