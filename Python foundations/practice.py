@@ -489,4 +489,31 @@ from collections import Counter
 #         ans.append(0)
 #     else:
 #         ans.append(i)
-# print(ans[:len(arr)])
+# # print(ans[:len(arr)])
+s = "ab#c"
+t = "ad#c"
+# i=len(s)-1
+# j=len(t)-1
+# c1=0
+# c2=0
+# while i:
+#     print(s[i])
+#     if s[i]=='#':
+#         c1+=1
+#         s.pop(i)
+#     else:
+#         while c1:
+#             s.pop(i)
+#             c1-=1
+#     i-=1
+# while j:
+#     if t[j]=="#":
+#         c2+=1
+#         t.pop(j)
+#     else:
+#         while c2:
+#             t.pop(j)
+#             c2-=1
+#     j-=1
+a=[i for i in s]
+print(a)

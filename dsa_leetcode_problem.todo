@@ -244,11 +244,11 @@
 
 [ ] STACK
     [ ] LIFO / push / pop / peek / isEmpty / using list
-        [ ] #20   Valid Parentheses                      Easy
-        [ ] #682  Baseball Game                          Easy
-        [ ] #844  Backspace String Compare               Easy
-        [ ] #1047 Remove All Adjacent Duplicates In String Easy
-        [ ] #496  Next Greater Element I                 Easy
+        [X] #20   Valid Parentheses                      Easy
+        [X] #682  Baseball Game                          Easy
+        [X] #844  Backspace String Compare               Easy
+        [X] #1047 Remove All Adjacent Duplicates In String Easy
+        [X] #496  Next Greater Element I                 Easy
 
     [ ] use cases
         [ ] #155  Min Stack                              Medium
