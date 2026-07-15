@@ -243,7 +243,7 @@
 ----------------------------------------------------------------
 
 [ ] STACK
-    [ ] LIFO / push / pop / peek / isEmpty / using list
+    [X] LIFO / push / pop / peek / isEmpty / using list
         [X] #20   Valid Parentheses                      Easy
         [X] #682  Baseball Game                          Easy
         [X] #844  Backspace String Compare               Easy
