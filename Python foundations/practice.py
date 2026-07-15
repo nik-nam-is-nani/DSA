@@ -515,5 +515,43 @@ t = "ad#c"
 #             t.pop(j)
 #             c2-=1
 #     j-=1
-a=[i for i in s]
-print(a)
+# a=[i for i in s]
+# print(a)
+tokens = ["10","6","9","3","+","-11","*","/","*","17","+","5","+"]
+dic={'+','-','*','/'}
+ans=0
+temp=list(tokens)
+te1=[]
+for i in temp:
+    if i in dic:
+        if i=='+':
+            ans+=int(te1.pop())+int(te1.pop())
+            print(ans)
+            te1.append(ans)
+            ans=0
+            print(te1)
+        elif i=='-':
+            ans+=int(te1.pop())-int(te1.pop())
+            print(ans)
+            te1.append(ans)
+            ans=0
+            print(te1)
+        elif i=='*':
+            ans+=int(te1.pop())*int(te1.pop())
+            print(ans)
+            te1.append(ans)
+            ans=0
+            print(te1)
+        elif i=='/':
+            ans+=int(te1.pop())/int(te1.pop())
+            print(ans)
+            te1.append(ans)
+            ans=0
+            print(te1)
+    else:
+        te1.append(i)
+        print(ans)
+        print(te1)
+# return ans
+print(ans)
+print(te1)

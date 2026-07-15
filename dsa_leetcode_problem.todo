@@ -252,8 +252,8 @@
 
     [ ] use cases
         [ ] #155  Min Stack                              Medium
-        [ ] #150  Evaluate Reverse Polish Notation       Medium
-        [ ] #739  Daily Temperatures                     Medium
+        [X] #150  Evaluate Reverse Polish Notation       Medium
+        [X] #739  Daily Temperatures                     Medium
         [ ] #394  Decode String                          Medium
         [ ] #84   Largest Rectangle in Histogram         Hard
 
