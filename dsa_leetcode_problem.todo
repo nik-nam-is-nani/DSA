@@ -251,11 +251,11 @@
         [X] #496  Next Greater Element I                 Easy
 
     [ ] use cases
-        [ ] #155  Min Stack                              Medium
+        [X] #155  Min Stack                              Medium
         [X] #150  Evaluate Reverse Polish Notation       Medium
         [X] #739  Daily Temperatures                     Medium
-        [ ] #394  Decode String                          Medium
-        [ ] #84   Largest Rectangle in Histogram         Hard
+        [X] #394  Decode String                          Medium
+        [X] #84   Largest Rectangle in Histogram         Hard
 
 ----------------------------------------------------------------
 

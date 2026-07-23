@@ -517,41 +517,71 @@ t = "ad#c"
 #     j-=1
 # a=[i for i in s]
 # print(a)
-tokens = ["10","6","9","3","+","-11","*","/","*","17","+","5","+"]
-dic={'+','-','*','/'}
-ans=0
-temp=list(tokens)
-te1=[]
-for i in temp:
-    if i in dic:
-        if i=='+':
-            ans+=int(te1.pop())+int(te1.pop())
-            print(ans)
-            te1.append(ans)
-            ans=0
-            print(te1)
-        elif i=='-':
-            ans+=int(te1.pop())-int(te1.pop())
-            print(ans)
-            te1.append(ans)
-            ans=0
-            print(te1)
-        elif i=='*':
-            ans+=int(te1.pop())*int(te1.pop())
-            print(ans)
-            te1.append(ans)
-            ans=0
-            print(te1)
-        elif i=='/':
-            ans+=int(te1.pop())/int(te1.pop())
-            print(ans)
-            te1.append(ans)
-            ans=0
-            print(te1)
-    else:
-        te1.append(i)
-        print(ans)
-        print(te1)
-# return ans
-print(ans)
-print(te1)
+# tokens = ["10","6","9","3","+","-11","*","/","*","17","+","5","+"]
+# dic={'+','-','*','/'}
+# ans=0
+# temp=list(tokens)
+# te1=[]
+# for i in temp:
+#     if i in dic:
+#         if i=='+':
+#             ans+=int(te1.pop())+int(te1.pop())
+#             print(ans)
+#             te1.append(ans)
+#             ans=0
+#             print(te1)
+#         elif i=='-':
+#             ans+=int(te1.pop())-int(te1.pop())
+#             print(ans)
+#             te1.append(ans)
+#             ans=0
+#             print(te1)
+#         elif i=='*':
+#             ans+=int(te1.pop())*int(te1.pop())
+#             print(ans)
+#             te1.append(ans)
+#             ans=0
+#             print(te1)
+#         elif i=='/':
+#             ans+=int(te1.pop())/int(te1.pop())
+#             print(ans)
+#             te1.append(ans)
+#             ans=0
+#             print(te1)
+#     else:
+#         te1.append(i)
+#         print(ans)
+#         print(te1)
+# # return ans
+# print(ans)
+# print(te1)
+# nums = [1,2,3,4,3]
+# ans=[]
+# for i in range(len(nums)):
+
+#     j=i
+#     flag=False
+#     print(i,j)
+#     while j<len(nums) and nums[i]>=nums[j]:
+#         if j+1<len(nums):
+#             j+=1
+#         flag=True
+#     if flag:
+#         ans.append(nums[j])
+#         flag=False
+#     else:
+#         ans.append(-1)
+# print(ans)
+# class mass:
+#     def decorator(func):
+
+#         def wrapper():
+#             print("Starting...")
+
+#             func()
+
+#             print("Ending...")
+
+#         return wrapper
+#     gr=decorator(gr)
+#     gr()
