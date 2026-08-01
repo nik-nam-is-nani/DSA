@@ -242,7 +242,7 @@
 
 ----------------------------------------------------------------
 
-[ ] STACK
+[X] STACK
     [X] LIFO / push / pop / peek / isEmpty / using list
         [X] #20   Valid Parentheses                      Easy
         [X] #682  Baseball Game                          Easy

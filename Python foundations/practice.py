@@ -585,3 +585,143 @@ t = "ad#c"
 #         return wrapper
 #     gr=decorator(gr)
 #     gr()
+#=================================================================
+
+
+
+
+# n=6
+# for i in range(n):
+#     for j in range(n-i-1):
+#         print(" ",end="")
+#     for j in range((2*i)+1):
+#         print("*",end="")
+#     for j in range(n-i-1):
+#         print(" ",end="")
+#         # print(" "*(n-i-1),end="")
+#         # print("*"*((2*i)+1),end="")
+#         # print(" "*(n-i-1),end="")
+#     print("")
+#=========================================================================
+# n=int(input())
+# for i in range(n):
+#     for j in range(i):
+#         print("*",end="")
+#     print("")
+# for i in range(n-2,0,-1):
+#     for j in range(i):
+#         print("*",end="")
+#     print("")
+
+
+# n=20
+# a=0
+# b=1
+# a_chance=True
+# b_ch=False
+# firs=True
+
+# for i in range(n-1,0,-1):
+#     for j in range(i):
+#         if i%2==0:
+#             print((j+1)%2,end="")
+#         else:
+#             print(j%2,end="")
+#     print("")
+
+    #     if firs:
+    #         if a_chance:
+    #             print(a,end="")
+    #             a_chance=False
+    #             b_ch=True
+
+    #         else:
+    #             print(b,end="")
+    #             b_ch=False
+    #             a_chance=True
+    #         firs=False
+    #     else:
+    #         if a_chance:
+    #                 print(b,end="")
+    #                 a_chance=True
+    #                 b_ch=False
+
+    #         else:
+    #             print(a,end="")
+    #             b_ch=True
+    #             a_chance=False
+    #         firs=True
+
+    # print("")
+#=============================================================
+
+# n=5
+# for i in range(n):
+#     for j in range(i+1):
+#         print(j+1,end="")
+#     val=n+n-i-i
+#     for j in range(val-2):
+
+#         print(" ",end="")
+#     for j in range(i+1,0,-1):
+#         print(j,end="")
+#     print()
+#===================================================
+
+
+# n=6
+# i=1
+# for j in range(n+1):
+#     for k in range(j):
+#         print(i,end=" ")
+#         i+=1
+#     print()
+#==========================================================================
+# a='A'
+# n=5
+# for i in range(n):
+#     for j in range(i):
+#         print(chr(ord(a)+i),end="")
+#     print() 
+#=========================================================================
+# n=5
+# i=n-1
+# while (n*2)-1>0:
+#     n=n-1
+#     i=n
+#     while i:
+#         print(i,end="")
+#         i-=1
+#     print()
+# n=4
+# for i in range(1,n+1,1):
+#     for j in range(n-i):
+#         print(" ",end="")
+#     for j in range(i):
+#         print(i,end="")
+#     for j in range(n-i):
+#         print(" ",end="")
+#     print()
+n=5
+        
+for i in range(2 * n - 1):
+    for j in range(2 * n - 1):
+        top = i
+        # print("iteration :",i)
+        # print("innner iteration: ",j)
+        # print("top:",top)
+        left = j
+        # print("left:",left)
+        bottom = (2 * n - 2) - i
+        right = (2 * n - 2) - j
+        # print("bottom: ",bottom)
+        # print("right: ",right)
+
+        minDist = min(top, bottom, left, right)
+        # print("==============================================")
+
+        print(n - minDist, end=" ")
+        # print("==============================================")
+
+    print()
+
