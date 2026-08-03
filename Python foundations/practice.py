@@ -780,7 +780,7 @@ t = "ad#c"
 # *       * 
 # * * * * * 
 #======================================================
-arr=[1,2,3,4,5,3,6,7,8,0,77,98,67]
+# arr=[1,2,3,4,5,3,6,7,8,0,77,98,67]
 # larger=-1
 # for i in range(len(arr)):
 #     if arr[i]>larger:
@@ -791,10 +791,33 @@ arr=[1,2,3,4,5,3,6,7,8,0,77,98,67]
 #         sec=arr[i]
 
 # print(sec)
-lrg=arr[0]
-sec_min=float('-inf')
-for j in range(1,len(arr)):
-    if lrg<arr[j]:
-        sec_min=lrg
-        lrg=arr[j]
-print(sec_min)
+# lrg=arr[0]
+# sec_min=float('-inf')
+# for j in range(1,len(arr)):
+#     if lrg<arr[j]:
+#         sec_min=lrg
+#         lrg=arr[j]
+# print(sec_min)
+#=====================================================================================
+# sor_arr=[1,2,3,3,4,5,6,7,7,8,8,9,9,10,10,11,11]
+# se=list(set(sor_arr))
+# for i in range(len(se)):\\one Aproach 
+#     sor_arr[i]=se[i]
+# print(sor_arr)
+# i=0
+# for j in range(1,len(sor_arr)):    \\ optimal aproch of this thing 
+#     if sor_arr[i]!=sor_arr[j]:
+#         sor_arr[i+1]=sor_arr[j]
+#         i+=1
+# print(sor_arr)
+#================================================================
+arr1=[1,1,2,3,4,5]
+arr2=[2,3,4,4,5,6]
+se=list(set(arr1))
+se.extend(list(set(arr2)))
+se=list(set(se))
+se.sort()
+
+
+print(se)
+
