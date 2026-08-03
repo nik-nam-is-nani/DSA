@@ -702,26 +702,99 @@ t = "ad#c"
 #     for j in range(n-i):
 #         print(" ",end="")
 #     print()
-n=5
+# n=5
         
-for i in range(2 * n - 1):
-    for j in range(2 * n - 1):
-        top = i
-        # print("iteration :",i)
-        # print("innner iteration: ",j)
-        # print("top:",top)
-        left = j
-        # print("left:",left)
-        bottom = (2 * n - 2) - i
-        right = (2 * n - 2) - j
-        # print("bottom: ",bottom)
-        # print("right: ",right)
+# for i in range(2 * n - 1):
+#     for j in range(2 * n - 1):
+#         top = i
+#         # print("iteration :",i)
+#         # print("innner iteration: ",j)
+#         # print("top:",top)
+#         left = j
+#         # print("left:",left)
+#         bottom = (2 * n - 2) - i
+#         right = (2 * n - 2) - j
+#         # print("bottom: ",bottom)
+#         # print("right: ",right)
 
-        minDist = min(top, bottom, left, right)
-        # print("==============================================")
+#         minDist = min(top, bottom, left, right)
+#         # print("==============================================")
 
-        print(n - minDist, end=" ")
-        # print("==============================================")
+#         print(n - minDist, end=" ")
+#         # print("==============================================")
 
-    print()
+#     print()
+#==========================================================================
 
+# n=5
+# for i in range(n):
+#     ch='E'
+#     for j in range(ord(ch)-i,ord('E')+1,1):
+#         print(chr(j),end=" ")
+#     print()
+#============================================================================
+# n=5
+
+# for i in range(n):
+#     for j in range(n-i):
+#         print("*",end="")
+#     for j in range(i+i):
+#         print(" ",end="")
+#     for j in range(n-i):
+#         print("*",end="")
+#     print()
+# for i in range(n-1,-1,-1):
+#     for j in range(n-i):
+#         print("*",end="")
+#     for j in range(i+i):
+#         print(" ",end="")
+#     for j in range(n-i):
+#         print("*",end="")
+#     print()
+
+# **********
+# ****  ****
+# ***    ***
+# **      **
+# *        *
+# *        *
+# **      **
+# ***    ***
+# ****  ****
+# **********
+#=========================================================================================
+# n=5
+# for i in range(n):
+#     for j in range(n):
+#         if j==n-1 or j==0  and i!=0 and i!=n-1:
+#             print("*",end=" ")
+#         elif i==0 or i==n-1:
+#             print("*",end=" ")
+        
+#         else:
+#             print(" ",end=" ")
+#     print()
+# * * * * * 
+# *       * 
+# *       * 
+# *       * 
+# * * * * * 
+#======================================================
+arr=[1,2,3,4,5,3,6,7,8,0,77,98,67]
+# larger=-1
+# for i in range(len(arr)):
+#     if arr[i]>larger:
+#         larger=arr[i]
+# sec=-1
+# for i in range(len(arr)):
+#     if arr[i]>sec and arr[i]!=larger:
+#         sec=arr[i]
+
+# print(sec)
+lrg=arr[0]
+sec_min=float('-inf')
+for j in range(1,len(arr)):
+    if lrg<arr[j]:
+        sec_min=lrg
+        lrg=arr[j]
+print(sec_min)
