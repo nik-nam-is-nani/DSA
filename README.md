@@ -30,6 +30,7 @@
 | [0872-leaf-similar-trees](https://github.com/nik-nam-is-nani/DSA/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/nik-nam-is-nani/DSA/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/nik-nam-is-nani/DSA/tree/master/0965-univalued-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/nik-nam-is-nani/DSA/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0872-leaf-similar-trees](https://github.com/nik-nam-is-nani/DSA/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/nik-nam-is-nani/DSA/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/nik-nam-is-nani/DSA/tree/master/0965-univalued-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/nik-nam-is-nani/DSA/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 | [0872-leaf-similar-trees](https://github.com/nik-nam-is-nani/DSA/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/nik-nam-is-nani/DSA/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/nik-nam-is-nani/DSA/tree/master/0965-univalued-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/nik-nam-is-nani/DSA/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -82,6 +85,7 @@
 | [0733-flood-fill](https://github.com/nik-nam-is-nani/DSA/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nik-nam-is-nani/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/nik-nam-is-nani/DSA/tree/master/0965-univalued-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/nik-nam-is-nani/DSA/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
