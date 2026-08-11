@@ -4,6 +4,7 @@ class Solution:
             return 1
         if visited[i][j]==1:
             return 0
+        # visited[i][j] = 1
         if grid[i][j] == 0:
             return 1
         visited[i][j]=1
