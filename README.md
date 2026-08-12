@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nik-nam-is-nani/DSA/tree/master/0001-two-sum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nik-nam-is-nani/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nik-nam-is-nani/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nik-nam-is-nani/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Tree
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/nik-nam-is-nani/DSA/tree/master/0257-binary-tree-paths) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nik-nam-is-nani/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -125,5 +127,10 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nik-nam-is-nani/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nik-nam-is-nani/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nik-nam-is-nani/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->
