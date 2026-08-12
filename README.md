@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/nik-nam-is-nani/DSA/tree/master/0001-two-sum) |
 | [0463-island-perimeter](https://github.com/nik-nam-is-nani/DSA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/nik-nam-is-nani/DSA/tree/master/0733-flood-fill) |
+| [1470-shuffle-the-array](https://github.com/nik-nam-is-nani/DSA/tree/master/1470-shuffle-the-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nik-nam-is-nani/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
