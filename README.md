@@ -13,6 +13,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nik-nam-is-nani/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/nik-nam-is-nani/DSA/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/nik-nam-is-nani/DSA/tree/master/1929-concatenation-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/nik-nam-is-nani/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nik-nam-is-nani/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/nik-nam-is-nani/DSA/tree/master/1929-concatenation-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/nik-nam-is-nani/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -157,4 +159,16 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/nik-nam-is-nani/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/0119-pascals-triangle-ii) |
+## Math
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/nik-nam-is-nani/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/nik-nam-is-nani/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/nik-nam-is-nani/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
