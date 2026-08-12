@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/nik-nam-is-nani/DSA/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/nik-nam-is-nani/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0463-island-perimeter](https://github.com/nik-nam-is-nani/DSA/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/nik-nam-is-nani/DSA/tree/master/0485-max-consecutive-ones) |
 | [0733-flood-fill](https://github.com/nik-nam-is-nani/DSA/tree/master/0733-flood-fill) |
@@ -155,4 +156,5 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/nik-nam-is-nani/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
