@@ -39,6 +39,7 @@
 | [0404-sum-of-left-leaves](https://github.com/nik-nam-is-nani/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/nik-nam-is-nani/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nik-nam-is-nani/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/nik-nam-is-nani/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nik-nam-is-nani/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nik-nam-is-nani/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/nik-nam-is-nani/DSA/tree/master/0872-leaf-similar-trees) |
@@ -58,6 +59,7 @@
 | [0404-sum-of-left-leaves](https://github.com/nik-nam-is-nani/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/nik-nam-is-nani/DSA/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nik-nam-is-nani/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/nik-nam-is-nani/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nik-nam-is-nani/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/nik-nam-is-nani/DSA/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nik-nam-is-nani/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -116,6 +118,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/nik-nam-is-nani/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nik-nam-is-nani/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/nik-nam-is-nani/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## String
 |  |
 | ------- |
