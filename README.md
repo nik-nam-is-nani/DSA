@@ -127,6 +127,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/nik-nam-is-nani/DSA/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/nik-nam-is-nani/DSA/tree/master/0257-binary-tree-paths) |
+| [0392-is-subsequence](https://github.com/nik-nam-is-nani/DSA/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nik-nam-is-nani/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Backtracking
 |  |
@@ -141,6 +142,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/nik-nam-is-nani/DSA/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nik-nam-is-nani/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Sliding Window
 |  |
@@ -171,6 +173,7 @@
 | [0118-pascals-triangle](https://github.com/nik-nam-is-nani/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/nik-nam-is-nani/DSA/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/nik-nam-is-nani/DSA/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
