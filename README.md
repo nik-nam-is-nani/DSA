@@ -174,9 +174,11 @@
 | [0119-pascals-triangle-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/nik-nam-is-nani/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/nik-nam-is-nani/DSA/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/nik-nam-is-nani/DSA/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/nik-nam-is-nani/DSA/tree/master/0509-fibonacci-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/nik-nam-is-nani/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Combinatorics
 |  |
@@ -194,4 +196,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nik-nam-is-nani/DSA/tree/master/0022-generate-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/nik-nam-is-nani/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/nik-nam-is-nani/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
