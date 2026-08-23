@@ -126,6 +126,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nik-nam-is-nani/DSA/tree/master/0022-generate-parentheses) |
+| [0168-excel-sheet-column-title](https://github.com/nik-nam-is-nani/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0257-binary-tree-paths](https://github.com/nik-nam-is-nani/DSA/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/nik-nam-is-nani/DSA/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nik-nam-is-nani/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -178,6 +179,7 @@
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/nik-nam-is-nani/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0509-fibonacci-number](https://github.com/nik-nam-is-nani/DSA/tree/master/0509-fibonacci-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/nik-nam-is-nani/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Combinatorics
