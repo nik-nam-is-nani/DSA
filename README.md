@@ -185,6 +185,7 @@
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/nik-nam-is-nani/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/nik-nam-is-nani/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0326-power-of-three](https://github.com/nik-nam-is-nani/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/nik-nam-is-nani/DSA/tree/master/0509-fibonacci-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/nik-nam-is-nani/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Combinatorics
@@ -207,6 +208,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/nik-nam-is-nani/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/nik-nam-is-nani/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
