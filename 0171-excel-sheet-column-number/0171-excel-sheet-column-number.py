@@ -1,0 +1,9 @@
+class Solution:
+    def titleToNumber(self, columnTitle: str) -> int:
+        op=0
+        for ch in columnTitle:
+            op=op*26+(ord(ch)-ord('A')+1)
+        return op
+
+
+        
