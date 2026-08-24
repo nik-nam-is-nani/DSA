@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nik-nam-is-nani/DSA/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/nik-nam-is-nani/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/nik-nam-is-nani/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0463-island-perimeter](https://github.com/nik-nam-is-nani/DSA/tree/master/0463-island-perimeter) |
@@ -146,6 +147,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nik-nam-is-nani/DSA/tree/master/0075-sort-colors) |
 | [0392-is-subsequence](https://github.com/nik-nam-is-nani/DSA/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nik-nam-is-nani/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Sliding Window
@@ -166,6 +168,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nik-nam-is-nani/DSA/tree/master/0075-sort-colors) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nik-nam-is-nani/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -214,4 +217,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/nik-nam-is-nani/DSA/tree/master/0509-fibonacci-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nik-nam-is-nani/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nik-nam-is-nani/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
