@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nik-nam-is-nani/DSA/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/nik-nam-is-nani/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/nik-nam-is-nani/DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/nik-nam-is-nani/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nik-nam-is-nani/DSA/tree/master/0054-spiral-matrix) |
@@ -161,6 +162,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/nik-nam-is-nani/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/nik-nam-is-nani/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/nik-nam-is-nani/DSA/tree/master/0075-sort-colors) |
 | [0392-is-subsequence](https://github.com/nik-nam-is-nani/DSA/tree/master/0392-is-subsequence) |
@@ -187,6 +189,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/nik-nam-is-nani/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/nik-nam-is-nani/DSA/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/0229-majority-element-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nik-nam-is-nani/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
