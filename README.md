@@ -14,6 +14,7 @@
 | [0119-pascals-triangle-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0463-island-perimeter](https://github.com/nik-nam-is-nani/DSA/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/nik-nam-is-nani/DSA/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/nik-nam-is-nani/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/nik-nam-is-nani/DSA/tree/master/0733-flood-fill) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nik-nam-is-nani/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/nik-nam-is-nani/DSA/tree/master/1470-shuffle-the-array) |
@@ -29,6 +30,7 @@
 | [0073-set-matrix-zeroes](https://github.com/nik-nam-is-nani/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0290-word-pattern](https://github.com/nik-nam-is-nani/DSA/tree/master/0290-word-pattern) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nik-nam-is-nani/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0560-subarray-sum-equals-k](https://github.com/nik-nam-is-nani/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nik-nam-is-nani/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nik-nam-is-nani/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nik-nam-is-nani/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -241,4 +243,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nik-nam-is-nani/DSA/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/nik-nam-is-nani/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
