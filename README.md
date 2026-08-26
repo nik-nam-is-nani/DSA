@@ -13,6 +13,7 @@
 | [0075-sort-colors](https://github.com/nik-nam-is-nani/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/nik-nam-is-nani/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/nik-nam-is-nani/DSA/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/0229-majority-element-ii) |
 | [0463-island-perimeter](https://github.com/nik-nam-is-nani/DSA/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/nik-nam-is-nani/DSA/tree/master/0485-max-consecutive-ones) |
@@ -211,6 +212,7 @@
 | [0053-maximum-subarray](https://github.com/nik-nam-is-nani/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/nik-nam-is-nani/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/nik-nam-is-nani/DSA/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/nik-nam-is-nani/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/nik-nam-is-nani/DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/nik-nam-is-nani/DSA/tree/master/0509-fibonacci-number) |
