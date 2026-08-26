@@ -16,6 +16,7 @@
 | [0229-majority-element-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/0229-majority-element-ii) |
 | [0463-island-perimeter](https://github.com/nik-nam-is-nani/DSA/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/nik-nam-is-nani/DSA/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/nik-nam-is-nani/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/nik-nam-is-nani/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/nik-nam-is-nani/DSA/tree/master/0733-flood-fill) |
 | [1310-xor-queries-of-a-subarray](https://github.com/nik-nam-is-nani/DSA/tree/master/1310-xor-queries-of-a-subarray) |
@@ -128,6 +129,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/nik-nam-is-nani/DSA/tree/master/0493-reverse-pairs) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nik-nam-is-nani/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nik-nam-is-nani/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nik-nam-is-nani/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -181,6 +183,7 @@
 | [0053-maximum-subarray](https://github.com/nik-nam-is-nani/DSA/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/nik-nam-is-nani/DSA/tree/master/0190-reverse-bits) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nik-nam-is-nani/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0493-reverse-pairs](https://github.com/nik-nam-is-nani/DSA/tree/master/0493-reverse-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -267,4 +270,24 @@
 |  |
 | ------- |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nik-nam-is-nani/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/nik-nam-is-nani/DSA/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/nik-nam-is-nani/DSA/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/nik-nam-is-nani/DSA/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/nik-nam-is-nani/DSA/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/nik-nam-is-nani/DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
