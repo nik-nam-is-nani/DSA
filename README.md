@@ -24,6 +24,7 @@
 | [1929-concatenation-of-array](https://github.com/nik-nam-is-nani/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nik-nam-is-nani/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/nik-nam-is-nani/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nik-nam-is-nani/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nik-nam-is-nani/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nik-nam-is-nani/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -194,6 +195,7 @@
 | [0075-sort-colors](https://github.com/nik-nam-is-nani/DSA/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/0229-majority-element-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nik-nam-is-nani/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nik-nam-is-nani/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Counting Sort
 |  |
 | ------- |
@@ -261,4 +263,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/0229-majority-element-ii) |
+## Greedy
+|  |
+| ------- |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nik-nam-is-nani/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 <!---LeetCode Topics End-->
