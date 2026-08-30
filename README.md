@@ -12,6 +12,7 @@
 | [0054-spiral-matrix](https://github.com/nik-nam-is-nani/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nik-nam-is-nani/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/nik-nam-is-nani/DSA/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/nik-nam-is-nani/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/nik-nam-is-nani/DSA/tree/master/0152-maximum-product-subarray) |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nik-nam-is-nani/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0493-reverse-pairs](https://github.com/nik-nam-is-nani/DSA/tree/master/0493-reverse-pairs) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nik-nam-is-nani/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nik-nam-is-nani/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
