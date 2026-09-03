@@ -28,6 +28,7 @@
 | [1310-xor-queries-of-a-subarray](https://github.com/nik-nam-is-nani/DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nik-nam-is-nani/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/nik-nam-is-nani/DSA/tree/master/1470-shuffle-the-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nik-nam-is-nani/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1929-concatenation-of-array](https://github.com/nik-nam-is-nani/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nik-nam-is-nani/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/nik-nam-is-nani/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -147,6 +148,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nik-nam-is-nani/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0875-koko-eating-bananas](https://github.com/nik-nam-is-nani/DSA/tree/master/0875-koko-eating-bananas) |
 | [0938-range-sum-of-bst](https://github.com/nik-nam-is-nani/DSA/tree/master/0938-range-sum-of-bst) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nik-nam-is-nani/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Stack
 |  |
 | ------- |
