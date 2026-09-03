@@ -35,6 +35,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nik-nam-is-nani/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nik-nam-is-nani/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nik-nam-is-nani/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -236,6 +237,7 @@
 | [0509-fibonacci-number](https://github.com/nik-nam-is-nani/DSA/tree/master/0509-fibonacci-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/nik-nam-is-nani/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nik-nam-is-nani/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Combinatorics
 |  |
 | ------- |
