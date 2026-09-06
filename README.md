@@ -166,6 +166,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nik-nam-is-nani/DSA/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/nik-nam-is-nani/DSA/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/nik-nam-is-nani/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/nik-nam-is-nani/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/nik-nam-is-nani/DSA/tree/master/0257-binary-tree-paths) |
@@ -230,6 +231,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/nik-nam-is-nani/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/nik-nam-is-nani/DSA/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/nik-nam-is-nani/DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/nik-nam-is-nani/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/nik-nam-is-nani/DSA/tree/master/0152-maximum-product-subarray) |
