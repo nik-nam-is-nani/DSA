@@ -175,6 +175,7 @@
 | [0290-word-pattern](https://github.com/nik-nam-is-nani/DSA/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/nik-nam-is-nani/DSA/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nik-nam-is-nani/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0940-distinct-subsequences-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/0940-distinct-subsequences-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -240,6 +241,7 @@
 | [0338-counting-bits](https://github.com/nik-nam-is-nani/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/nik-nam-is-nani/DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/nik-nam-is-nani/DSA/tree/master/0509-fibonacci-number) |
+| [0940-distinct-subsequences-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/0940-distinct-subsequences-ii) |
 ## Math
 |  |
 | ------- |
