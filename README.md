@@ -250,6 +250,7 @@
 | [0326-power-of-three](https://github.com/nik-nam-is-nani/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/nik-nam-is-nani/DSA/tree/master/0509-fibonacci-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/nik-nam-is-nani/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3870-count-commas-in-range](https://github.com/nik-nam-is-nani/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nik-nam-is-nani/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Combinatorics
