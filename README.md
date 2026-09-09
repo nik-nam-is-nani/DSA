@@ -18,6 +18,7 @@
 | [0152-maximum-product-subarray](https://github.com/nik-nam-is-nani/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nik-nam-is-nani/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/0229-majority-element-ii) |
+| [0410-split-array-largest-sum](https://github.com/nik-nam-is-nani/DSA/tree/master/0410-split-array-largest-sum) |
 | [0463-island-perimeter](https://github.com/nik-nam-is-nani/DSA/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/nik-nam-is-nani/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/nik-nam-is-nani/DSA/tree/master/0493-reverse-pairs) |
@@ -146,6 +147,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/nik-nam-is-nani/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nik-nam-is-nani/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/nik-nam-is-nani/DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/nik-nam-is-nani/DSA/tree/master/0493-reverse-pairs) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nik-nam-is-nani/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nik-nam-is-nani/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -240,6 +242,7 @@
 | [0152-maximum-product-subarray](https://github.com/nik-nam-is-nani/DSA/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/nik-nam-is-nani/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/nik-nam-is-nani/DSA/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/nik-nam-is-nani/DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/nik-nam-is-nani/DSA/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/0940-distinct-subsequences-ii) |
 ## Math
@@ -291,6 +294,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/nik-nam-is-nani/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/nik-nam-is-nani/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1310-xor-queries-of-a-subarray](https://github.com/nik-nam-is-nani/DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/nik-nam-is-nani/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -302,6 +306,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/nik-nam-is-nani/DSA/tree/master/0410-split-array-largest-sum) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nik-nam-is-nani/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Binary Indexed Tree
 |  |
