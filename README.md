@@ -38,6 +38,7 @@
 | [2221-find-triangular-sum-of-an-array](https://github.com/nik-nam-is-nani/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nik-nam-is-nani/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nik-nam-is-nani/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/nik-nam-is-nani/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nik-nam-is-nani/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nik-nam-is-nani/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -55,6 +56,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nik-nam-is-nani/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nik-nam-is-nani/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nik-nam-is-nani/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/nik-nam-is-nani/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nik-nam-is-nani/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Tree
 |  |
@@ -282,6 +284,7 @@
 | ------- |
 | [0326-power-of-three](https://github.com/nik-nam-is-nani/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/nik-nam-is-nani/DSA/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/nik-nam-is-nani/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -331,4 +334,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/nik-nam-is-nani/DSA/tree/master/0493-reverse-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/nik-nam-is-nani/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
