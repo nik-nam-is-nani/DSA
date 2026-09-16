@@ -255,6 +255,7 @@
 | [0410-split-array-largest-sum](https://github.com/nik-nam-is-nani/DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/nik-nam-is-nani/DSA/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nik-nam-is-nani/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nik-nam-is-nani/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
@@ -263,6 +264,7 @@
 | [0171-excel-sheet-column-number](https://github.com/nik-nam-is-nani/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/nik-nam-is-nani/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/nik-nam-is-nani/DSA/tree/master/0509-fibonacci-number) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nik-nam-is-nani/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/nik-nam-is-nani/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3870-count-commas-in-range](https://github.com/nik-nam-is-nani/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nik-nam-is-nani/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -270,6 +272,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nik-nam-is-nani/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/nik-nam-is-nani/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Number Theory
 |  |
@@ -309,6 +312,7 @@
 | [0410-split-array-largest-sum](https://github.com/nik-nam-is-nani/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/nik-nam-is-nani/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1310-xor-queries-of-a-subarray](https://github.com/nik-nam-is-nani/DSA/tree/master/1310-xor-queries-of-a-subarray) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nik-nam-is-nani/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/nik-nam-is-nani/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Boyer–Moore Majority Vote Algorithm
