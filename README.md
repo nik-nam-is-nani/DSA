@@ -32,6 +32,7 @@
 | [1310-xor-queries-of-a-subarray](https://github.com/nik-nam-is-nani/DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nik-nam-is-nani/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/nik-nam-is-nani/DSA/tree/master/1470-shuffle-the-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nik-nam-is-nani/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nik-nam-is-nani/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/nik-nam-is-nani/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1929-concatenation-of-array](https://github.com/nik-nam-is-nani/DSA/tree/master/1929-concatenation-of-array) |
@@ -57,6 +58,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/nik-nam-is-nani/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nik-nam-is-nani/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nik-nam-is-nani/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nik-nam-is-nani/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nik-nam-is-nani/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nik-nam-is-nani/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nik-nam-is-nani/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -164,6 +166,7 @@
 | [0938-range-sum-of-bst](https://github.com/nik-nam-is-nani/DSA/tree/master/0938-range-sum-of-bst) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nik-nam-is-nani/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nik-nam-is-nani/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nik-nam-is-nani/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nik-nam-is-nani/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/nik-nam-is-nani/DSA/tree/master/1539-kth-missing-positive-number) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nik-nam-is-nani/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -212,6 +215,7 @@
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nik-nam-is-nani/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nik-nam-is-nani/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nik-nam-is-nani/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Divide and Conquer
 |  |
@@ -255,6 +259,7 @@
 | [0410-split-array-largest-sum](https://github.com/nik-nam-is-nani/DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/nik-nam-is-nani/DSA/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nik-nam-is-nani/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nik-nam-is-nani/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nik-nam-is-nani/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
