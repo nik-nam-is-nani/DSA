@@ -36,6 +36,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nik-nam-is-nani/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/nik-nam-is-nani/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nik-nam-is-nani/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nik-nam-is-nani/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/nik-nam-is-nani/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nik-nam-is-nani/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/nik-nam-is-nani/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -66,6 +67,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nik-nam-is-nani/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nik-nam-is-nani/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nik-nam-is-nani/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nik-nam-is-nani/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nik-nam-is-nani/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nik-nam-is-nani/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nik-nam-is-nani/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -201,6 +203,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nik-nam-is-nani/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nik-nam-is-nani/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/nik-nam-is-nani/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
 |  |
