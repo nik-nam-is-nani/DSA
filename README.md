@@ -190,6 +190,7 @@
 | [0590-n-ary-tree-postorder-traversal](https://github.com/nik-nam-is-nani/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nik-nam-is-nani/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nik-nam-is-nani/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String
 |  |
 | ------- |
@@ -205,6 +206,7 @@
 | [1096-brace-expansion-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nik-nam-is-nani/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nik-nam-is-nani/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nik-nam-is-nani/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nik-nam-is-nani/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/nik-nam-is-nani/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
@@ -321,6 +323,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/nik-nam-is-nani/DSA/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nik-nam-is-nani/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nik-nam-is-nani/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
 | ------- |
