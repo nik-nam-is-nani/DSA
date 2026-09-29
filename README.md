@@ -40,6 +40,7 @@
 | [1929-concatenation-of-array](https://github.com/nik-nam-is-nani/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nik-nam-is-nani/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/nik-nam-is-nani/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nik-nam-is-nani/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nik-nam-is-nani/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nik-nam-is-nani/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nik-nam-is-nani/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -223,6 +224,7 @@
 | [0463-island-perimeter](https://github.com/nik-nam-is-nani/DSA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/nik-nam-is-nani/DSA/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/nik-nam-is-nani/DSA/tree/master/0835-image-overlap) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nik-nam-is-nani/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Two Pointers
 |  |
 | ------- |
@@ -286,6 +288,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/nik-nam-is-nani/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nik-nam-is-nani/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nik-nam-is-nani/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nik-nam-is-nani/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nik-nam-is-nani/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/nik-nam-is-nani/DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Math
@@ -324,6 +327,7 @@
 | [0022-generate-parentheses](https://github.com/nik-nam-is-nani/DSA/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nik-nam-is-nani/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nik-nam-is-nani/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nik-nam-is-nani/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Recursion
 |  |
 | ------- |
